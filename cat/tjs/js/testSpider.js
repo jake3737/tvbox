@@ -64,29 +64,24 @@ async function test() {
         }
     });
 
-
-
     let classes = JSON.parse(await spider.home(true));
     console.debug(JSON.stringify(classes))
 
     //测试首页列表
     let homeVod = JSON.parse(await spider.homeVod())
     console.debug(JSON.stringify(homeVod));
-
-        // 测试分类
-    let catePage = JSON.parse(await spider.category("72", "1", undefined,  {}));
-    console.debug(JSON.stringify(catePage));
+    // 测试分类
+    let catePage = JSON.parse(await spider.category("72", "2", undefined, {"live":"101"}));
+    console.debug(JSON.stringify(catePage))
 
     // 测试详情
-    let detail1 = JSON.parse(await spider.detail("live-cctv2-https://app.cctv.com/special/appchannellogo/rectangle/l/cctv2.png?q=75"))
+    let detail1 = JSON.parse(await spider.detail("live-cctv2-https://app.cctv.com/special/appchannellogo/rectangle/l/cctv1.png?q=75"))
     await testPlay(detail1)
 
-
-
-
     // 测试搜索
-    let search_page = JSON.parse(await spider.search("万相之王",false,1))
+    let search_page = JSON.parse(await spider.search("完美世界", false, 1))
     console.debug(JSON.stringify(search_page))
+
 
 
 
