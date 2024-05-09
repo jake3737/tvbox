@@ -723,7 +723,7 @@
     "name": "直播综合",
     "ua": "okhttp/3.15",
     "type": 0,
-    "url":"https://cdn.jsdelivr.net/gh/jake3737/tvbox@master/aptv-lives",
+    "url":"https://cdn.jsdelivr.net/gh/jake3737/tvbox@master/ds/aptv-lives",
     "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
     "logo":"https://epg.112114.xyz/logo/{name}.png"
 },
@@ -731,7 +731,7 @@
     "name": "直播备用",
     "ua":"okhttp/3.15",
     "type": 0,
-    "url":"https://cdn.jsdelivr.net/gh/jake3737/tvbox@master/ipv4.txt",
+    "url":"https://cdn.jsdelivr.net/gh/jake3737/tvbox@master/ds/ipv4.txt",
     "epg":"http://diyp.112114.xyz/?ch={name}&date={date}",
     "logo":"https://epg.112114.xyz/logo/{name}.png"
     },
