@@ -1,0 +1,52 @@
+{
+    "urls": [
+        {
+            "url": "https://cdn.jsdelivr.net/gh/zengchaoqun0625/movies@main/feimao",
+            "name": "💛曾江涛资源💛"
+        },
+        {
+            "url": "http://我不是.肥猫.live/接口禁止贩卖",
+            "name": "💛推荐使用💛"
+        },
+        {
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "💛影视3💛"
+        },
+        {
+            "url": "http://ok321.top/ok",
+            "name": "💛影视4💛"
+        },
+        {
+            "url": "http://o.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌",
+            "name": "💛影视5💛"
+        },
+        {
+            "url": "https://盒子迷.top/春盈天下",
+            "name": "💛影视6💛"
+        },
+        {
+            "url": "http://live.nctv.top/X.json",
+            "name": "💛影视7💛"
+        },
+        {
+            "url": "http://饭太硬.top/tv",
+            "name": "💛影视8💛"
+        },
+        {
+            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+            "name": "💛影视9💛"
+        },
+        {
+            "url": "https://神器每日推送.tk/pz.json",
+            "name": "💛影视10💛"
+       },
+       {
+            "url": "http://yydf.540734621.xyz/yydf/yydf/bd/xyq.json",
+            "name": "💛影视11💛"
+       },
+       {
+            "url": "http://tvbox.王二小放牛娃.xyz",
+            "name": "💛影视12💛"
+       }
+    ]
+}
