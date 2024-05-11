@@ -2,51 +2,51 @@
     "urls": [
         {
             "url": "https://cdn.jsdelivr.net/gh/zengchaoqun0625/movies@main/feimao",
-            "name": "💛曾江涛资源💛"
+            "name": "💛曾江涛💛"
         },
         {
             "url": "http://我不是.肥猫.live/接口禁止贩卖",
-            "name": "💛推荐使用💛"
+            "name": "💛肥猫宝贝💛"
         },
         {
             "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": "💛影视3💛"
+            "name": "💛神秘哥哥💛"
         },
         {
             "url": "http://ok321.top/ok",
-            "name": "💛影视4💛"
+            "name": "💛ok哥💛"
         },
         {
-            "url": "http://o.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌",
-            "name": "💛影视5💛"
+            "url": "http://tvbox.王二小放牛娃.xyz",
+            "name": "💛王二小💛"
         },
         {
             "url": "https://盒子迷.top/春盈天下",
-            "name": "💛影视6💛"
+            "name": "💛春颖天下💛"
         },
         {
             "url": "http://live.nctv.top/X.json",
-            "name": "💛影视7💛"
+            "name": "💛阿剑💛"
         },
         {
             "url": "http://饭太硬.top/tv",
-            "name": "💛影视8💛"
+            "name": "💛饭太硬💛"
         },
         {
-            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-            "name": "💛影视9💛"
+            "url": "http://o.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌",
+            "name": "💛欧歌💛"
         },
         {
             "url": "https://神器每日推送.tk/pz.json",
-            "name": "💛影视10💛"
+            "name": "💛神器💛"
        },
        {
-            "url": "http://yydf.540734621.xyz/yydf/yydf/bd/xyq.json",
-            "name": "💛影视11💛"
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "💛巧儿💛"
        },
        {
-            "url": "http://tvbox.王二小放牛娃.xyz",
-            "name": "💛影视12💛"
+            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+            "name": "💛云星日记💛"
        }
     ]
 }

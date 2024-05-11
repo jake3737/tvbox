@@ -1,33 +1,5 @@
-纯IPv4源：
+
 https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u #百视通源
-
-https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u #重庆广电源
-
-https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u #可能为阳泉广电源
-
-https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/hbgd.m3u #河北广电源
-
-https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u #国内4K/8K源
-
-https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u #zbefine源
-
-https://raw.githubusercontent.com/vamoschuck/TV/main/M3U #茶客源
-
-https://raw.githubusercontent.com/wuyun999/wuyun/main/zb/aptv.txt #乌云源
-
-https://x-x-xxx.github.io/diyp/tv.txt #diyp源
-
-https://cdn.21t.co/tv/tv.txt #21t源
-
-https://raw.githubusercontent.com/joevess/IPTV/main/home.m3u8  #joevess央视台+卫视台直播源
-
-https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8  #joevess央视台+卫视台直播源+地方台直播
-
-https://wzsvip.github.io/ipv6.txt
-
-https://wzsvip.github.io/ipv4.txt
-http://nctv.top/tv/gt.txt
-
 https://agit.ai/Yoursmile7/TVBox/src/branch/master/live.txt
 
 
@@ -62,38 +34,37 @@ https://epg.pw/test_channels_malaysia.m3u #马来西亚频道
 
 
 
-http://152.32.170.60/alanchaotang/if/src/commit/a451929a1480848f0276e6acaed94f03bdc43f7c/X.json
+http://152.32.170.60/alanchaotang/if/src/commit/a451929a1480848f0276e6acaed94f03bdc43f7c/X.json   
 https://pastebin.com/raw/tuXBQs7U
-
-http://222.211.73.100:4514/live/tv.txt
-https://gitcode.com/search?q=yunxi&type=repo
 https://tang.serv00.net/zb/
 https://ykq001.serv00.net/live/
-https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-https://github.com/2010dainifei/IPTV/blob/main/IPTV.txt
-https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
-https://盒子迷.top/春盈天下
-https://tv.youdu.fan:666/live/
+
+http://live.nctv.top/x.png  阿剑
+http://8.210.232.168/ygbh.txt   月光
+https://pan.shangui.cc/f/0d0jFj/%E7%8C%95%E7%8C%B4%E6%A1%83%E7%9B%B4%E6%92%AD.txt   猕猴桃
+http://wp.wadg.pro/down.php/e9cb42ff397b1a725c9db5e9a71a9e7d.txt 好人
+https://gitcode.com/search?q=yunxi&type=repo   云溪+18
+https://gitcode.com/Lechat/01/blob/main/%E4%B8%83%E6%98%9FTV%E7%9B%B4%E6%92%AD%E6%BA%90.txt   七星带港台
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u   直播游戏
+https://github.com/2010dainifei/IPTV/blob/main/IPTV.txt   QQ
+https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json   肥猫
+https://盒子迷.top/春盈天下    https://xn--2kr89ax9k.com/ZB
+https://tv.youdu.fan:666/live/    备用
 http://xzweb.top/祥子影视
-https://gitcode.com/Lechat/01/blob/main/%E4%B8%83%E6%98%9FTV%E7%9B%B4%E6%92%AD%E6%BA%90.txt             七星
 
-
-
-https://tv.youdu.fan:666/live/
-https://gitcode.com/henryzhang/01/overview
-https://gitcode.com/kikkott/01/blob/main/
+https://gitcode.com/henryzhang/01/overview  带港台
+https://gitcode.com/kikkott/01/  小齐
 https://wzsvip.github.io/ipv6.txt
-https://wzsvip.github.io/ipv4.txt
-https://gitcode.com/xiaoqi719/yingshi/blob/main/zhibo.txt
-http://nctv.top/tv/gt.txt    
+https://wzsvip.github.io/ipv4.txt   备用
+https://gitcode.com/xiaoqi719/yingshi/blob/main/zhibo.txt  小齐
+http://nctv.top/tv/gt.txt    港澳
 https://gitee.com/hailin886/fty/raw/master/tvbox/aishang.json
 https://github.com/Ftindy/IPTV-URL
+
+
 https://dxawi.github.io/0/0.json
 https://liu673cn.github.io/box/m.json
-https://raw.liucn.cc/box/m.json
-https://raw.liucn.cc/box/xiaopingguo.json
 https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json
-https://pastebin.com/raw/gtbKvnE1
 
 
 
