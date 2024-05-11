@@ -754,7 +754,7 @@
         },
         {
             "key": "push_agent",
-            "name": "幸福老罗",
+            "name": "关注公众号：肥猫宝贝",
             "type": 3,
             "api": "csp_Push",
             "playerType": "1",
@@ -774,9 +774,9 @@
             "url": "Web"
         },
         {
-            "name": "幸福老罗",
+            "name": "公众号：肥猫宝贝",
             "type": 1,
-            "url": "http://json.84jia",
+            "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
             "ext": {
                 "flag": [
                     "qq",
