@@ -17,6 +17,26 @@
             "playerType": 2,
             "searchable": 0
         },
+	{
+	   "key":"cctv",
+	   "name":"📺央视｜大全",
+	   "type":3,
+	   "api":"csp_CCTV",
+	   "searchable":0,"filterable":0,
+	   "jar": "./libs/jar/HCCX.jar",
+	   "ext":"./libs/hccx/央视大全.json"
+	},
+	{
+	   "key":"央视经典",
+	   "name":"📺央视｜经典",
+	   "type":3,
+	   "api":"csp_Bili",
+	   "searchable":0,
+	   "quickSearch":1,
+	   "filterable":1,
+	   "jar": "./libs/jar/HCCX.jar",
+	   "ext":"./libs/hccx/哔哩经典.json"
+	}, 
         {
             "key": "相声小品",
             "name": "🍓相声小品",
@@ -37,13 +57,102 @@
             "filterable": 1,
             "ext": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/sub/Blixq.json"
         },
-		
+		    {
+	   "key": "csp_Bili_TYjs",
+	   "name": "🅱️┃体育┃健身",
+	   "type": 3,
+	   "api": "csp_Bili",
+	   "searchable": 0,
+	   "quickSearch": 0,
+	   "filterable": 1,
+	   "jar": "./libs/jar/HCCX.jar",
+	   "ext": "./libs/hccx/体育.json"
+	},
+	{
+	    "key": "csp_Bili_meishi",
+		"name": "🅱️┃美食┃合集",
+		"type": 3,
+		"api": "csp_Bili",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"jar": "./libs/jar/HCCX.jar",
+		"ext": "./libs/hccx/美食合集.json"
+    },
+  {
+      "key": "drpy_js_310直播",
+      "name": "🏀┃体育┃直播",
+      "type": 3,
+      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+      "changeable": 0,
+      "gridview": 3,
+      "style": {
+        "type": "list"
+      },
+      "ext": "http://dt.xn--yety82d.love/js/310直播.js"
+    },
+	    {
+      "key": " 在线┃直播1",
+      "name": "📺┃竞技┃直播",
+      "type": 3,
+      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+      "ext": "http://dt.xn--yety82d.love/js/JustLive.js",
+      "gridview": "0-0-H",
+      "style": {
+        "type": "rect",
+        "ratio": 1.68
+      }
+    },
 		{"key":"88js","name":"⚽ 88┃看球","type":3,"api":"csp_Kanqiu","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"Jrsjs","name":"⚽ Jrs┃球迷","type": 3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
 {"key":"310js","name":"⚽310┃看球","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/310直播.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
 {"key":"企鹅体育xp","name":"🐧鹅鹅┃体育","type":3,"api":"csp_XPath","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/企鹅直播.json"},
 {"key":"酷奇","name":"🎤酷奇┃MV","type": 3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/酷奇MV.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
 {"key":"MTV","name":"🎧明星┃MV","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"},
+
+	{
+	     "key": "js_B站精简",
+		 "name": "🅱️┃哔哩┃精简",
+		 "type": 3,
+		 "api": "./libs/js/drpy2.min.js",
+		 "searchable": 0,
+		 "quickSearch": 0,
+		 "filterable": 1,
+		 "ext": "./libs/js/B站精简.js"
+	},
+
+
+        {
+            "key": "drpy_哔哩",
+            "name": "🅱┃哔哩┃合集",
+            "type": 3,
+            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+            "playerType": 1,
+            "ext": "http://dt.xn--yety82d.love/js/B站.js"
+        },
+		    {
+	     "key": "Biliych",
+		 "name": "🅱哔哔┃歌曲",
+		 "type": 3,
+		 "api": "csp_Bili",
+		 "style": {  "type": "rect",
+		 "ratio": 1.597},
+		 "searchable": 1,
+		 "quickSearch": 0,
+		 "changeable": 0,
+		 "ext": "./libs/biliych.json"
+    },
+	{
+	     "key": "csp_Bili__dapei",
+		 "name": "💃┃搭配┃教程",
+		 "type": 3,
+		 "api": "csp_Bili",
+		 "searchable": 0,
+		 "quickSearch": 0,
+		 "filterable": 1,
+		 "jar": "./libs/jar/HCCX.jar",
+		 "ext": "./libs/hccx/搭配.json"
+	},
 
         {
             "key": "nangua",
@@ -521,43 +630,7 @@
             },
             "gridview": "0-0-4.1"
         },
-        {
-            "key": "在线┃直播1",
-            "name": "📺┃竞技┃直播",
-            "type": 3,
-            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-            "ext": "http://dt.xn--yety82d.love/js/JustLive.js",
-            "gridview": "0-0-H",
-            "style": {
-                "type": "rect",
-                "ratio": 1.68
-            }
-        },
-        {
-            "key": "看球",
-            "name": "⚾┃看球┃直播",
-            "type": 3,
-            "api": "csp_Kanqiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "gridview": 3,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "drpy_js_310直播",
-            "name": "🏀┃体育┃直播",
-            "type": 3,
-            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-            "changeable": 0,
-            "gridview": 3,
-            "style": {
-                "type": "list"
-            },
-            "ext": "http://dt.xn--yety82d.love/js/310直播.js"
-        },
+   
         {
             "key": "七夜",
             "name": "🌖┃七夜┃网盘",
@@ -597,14 +670,7 @@
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
         },
-        {
-            "key": "drpy_哔哩",
-            "name": "🅱┃哔哩┃合集",
-            "type": 3,
-            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-            "playerType": 1,
-            "ext": "http://dt.xn--yety82d.love/js/B站.js"
-        },
+
         {
             "key": "dr_兔小贝",
             "name": "兔小贝",
