@@ -1,3 +1,28 @@
+🌟常看频道,#genre#
+CCTV1,http://www.8700956.top:18888/rtp/239.81.1.002:4056
+CCTV2,http://www.8700956.top:18888/rtp/239.81.1.003:4056
+CCTV5,http://www.8700956.top:18888/rtp/239.81.1.006:4056
+CCTV5+,http://www.8700956.top:18888/rtp/239.81.1.018:4056
+CCTV13,http://www.8700956.top:18888/rtp/239.81.1.014:4056
+湖南卫视,http://www.8700956.top:18888/rtp/239.81.1.022:4056
+凤凰资讯台,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
+凤凰香港台,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
+翡翠台,mitv://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7
+民视,mitv://generationnexxxt.com:19806/7b662823ed634f1fad66ab442b177118
+台视,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
+华视,mitv://generationnexxxt.com:19806/761bc3c0662247d18b0db4da8070b7f4
+纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+TVBS新闻台,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
+tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
+CNBC,mitv://generationnexxxt.com:19806/b642a4ce45734a7190f0acbd8cd462dd
+ESPN,mitv://generationnexxxt.com:19806/2436baa9e481444fa785298d5931bdba
+NBA,mitv://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
+驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts
+🍌香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
+👅奧視🔞3,http://125.227.210.55:8917/VideoInput/play.ts
+🔮奧視2,http://125.227.210.55:55643/VideoInput/play.ts
+💖Sex ❌Girl,http://125.227.210.55:62698/VideoInput/play.ts
+
 .央视频道,#genre#
 爱上4K,http://218.29.135.5:4000/udp/225.1.4.162:1204
 CCTV1,http://www.8700956.top:18888/rtp/239.81.1.002:4056
@@ -97,14 +122,6 @@ CETV4,http://www.8700956.top:18888/rtp/239.81.0.188:4056
 吉林卫视,http://www.8700956.top:18888/rtp/239.81.0.143:4056
 精彩影视,http://www.8700956.top:18888/rtp/239.81.0.152:4056
 示索记录,http://www.8700956.top:18888/rtp/239.81.0.153:4056
-
-
-.18🈲VIP,#genre#
-🈲驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts
-🍌香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
-👅奧視🔞3,http://125.227.210.55:8917/VideoInput/play.ts
-🔮奧視2,http://125.227.210.55:55643/VideoInput/play.ts
-💖Sex ❌Girl,http://125.227.210.55:62698/VideoInput/play.ts
 
 
 .台湾频道,#genre#
