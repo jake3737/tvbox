@@ -104,17 +104,6 @@
                 "type": 3
             },
             {
-                "key": "jiujiuliu",
-                "name": "🥃┃九九六影视┃🥃",
-                "api": "./js/jiujiuliu.js",
-                "timeout": 30,
-                "ext": {
-                    "box": "CatOpen"
-                },
-                "playerType": 0,
-                "type": 3
-            },
-            {
                 "key": "bilibili",
                 "name": "🏰┃哔哩哔哩┃🏰",
                 "api": "./js/bilibili.js",
@@ -370,6 +359,16 @@
                 "key": "dj0898_book_open",
                 "name": "🎵┃世纪DJ音乐网┃🎵",
                 "api": "./js/dj0898_book_open.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen"
+                },
+                "type": 10
+            },
+            {
+                "key": "ttkan",
+                "name": "📚︎┃天天看小说┃📚︎",
+                "api": "./js/ttkan.js",
                 "timeout": 30,
                 "ext": {
                     "box": "CatOpen"
