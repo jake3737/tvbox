@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="視1" tvg-logo="https://live.fanmingming.com/tv/視1.png",視1
-http://z88.ubtvfans.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
+zlive://173.208.209.114:7719/3b4b32bdc1cc9445ea28ab14eaeb69ed
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png",纬来体育
 http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 #EXTINF:-1 tvg-name="視2" tvg-logo="https://live.fanmingming.com/tv/視2.png",視2
-http://www.8700956.top:18888/rtp/239.81.1.003:4056
+zlive://173.208.209.114:7719/701f1ea2109398e7062df96417fa6c1a
 #EXTINF:-1 tvg-name="視5" tvg-logo="https://live.fanmingming.com/tv/視5.png",視5
 http://www.8700956.top:18888/rtp/239.81.1.006:4056
 #EXTINF:-1 tvg-name="視13" tvg-logo="https://live.fanmingming.com/tv/視13.png",視13
