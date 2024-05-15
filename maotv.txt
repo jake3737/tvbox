@@ -1,11 +1,19 @@
 🌟常看频道,#genre#
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 CCTV1,http://www.8700956.top:18888/rtp/239.81.1.002:4056
+CCTV-1 综合,http://183.92.4.163:4000/udp/228.0.0.1:6108
 CCTV2,http://www.8700956.top:18888/rtp/239.81.1.003:4056
+CCTV-2 财经,http://183.92.4.163:4000/udp/228.0.0.2:6108
+CCTV2,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6239DD00U319F204BK783FF8A8I5469B86EP2BF4M3640F28V0Z339C9W16DEBA3F9A6203F0&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000061
 CCTV5,http://www.8700956.top:18888/rtp/239.81.1.006:4056
+CCTV-5 体育,http://183.92.4.163:4000/udp/228.0.0.112:6108
+CCTV-5+ 体育赛事,http://183.92.4.163:4000/udp/228.0.0.17:6108
 CCTV5+,http://www.8700956.top:18888/rtp/239.81.1.018:4056
 CCTV13,http://www.8700956.top:18888/rtp/239.81.1.014:4056
+CCTV-13 新闻,http://183.92.4.163:4000/udp/228.0.0.202:6108
+CCTV13,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6239DD00U319F204BK783FF8A8I5469B86EP2BF4M3640F28V0Z339C9W16DEBA3F9A6203F0&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000067
 湖南卫视,http://www.8700956.top:18888/rtp/239.81.1.022:4056
+湖南卫视,http://183.92.4.163:4000/udp/228.0.0.61:6108
 凤凰资讯台,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
 凤凰香港台,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
 翡翠台,mitv://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7
