@@ -19,7 +19,7 @@ TVBS新闻台,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 凤凰资讯台,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
 凤凰香港台,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
 翡翠台,mitv://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7
-翡翠台(备),mitv://147.135.39.171:9906/65e067d500071b152f5b108a3f5b16fb
+翡翠台(备),P2p://generationnexxxt.com:19806/660d193500015d6c736dc89372d11bb9 
 翡翠台(B),mitv://generationnexxxt.com:19806/65f96ab8000ca1d1268c26e426ae6c37
 纬来体育台,mitv://generationnexxxt.com:19806/79090c69d43040148deaa21d5e26c32a
 tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
