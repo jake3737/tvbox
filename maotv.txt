@@ -4,14 +4,12 @@ CCTV1,http://www.8700956.top:18888/rtp/239.81.1.002:4056
 CCTV-1 综合,http://183.92.4.163:4000/udp/228.0.0.1:6108
 CCTV2,http://www.8700956.top:18888/rtp/239.81.1.003:4056
 CCTV-2 财经,http://183.92.4.163:4000/udp/228.0.0.2:6108
-CCTV2,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6239DD00U319F204BK783FF8A8I5469B86EP2BF4M3640F28V0Z339C9W16DEBA3F9A6203F0&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000061
 CCTV5,http://www.8700956.top:18888/rtp/239.81.1.006:4056
 CCTV-5 体育,http://183.92.4.163:4000/udp/228.0.0.112:6108
 CCTV-5+ 体育赛事,http://183.92.4.163:4000/udp/228.0.0.17:6108
 CCTV5+,http://www.8700956.top:18888/rtp/239.81.1.018:4056
 CCTV13,http://www.8700956.top:18888/rtp/239.81.1.014:4056
 CCTV-13 新闻,http://183.92.4.163:4000/udp/228.0.0.202:6108
-CCTV13,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6239DD00U319F204BK783FF8A8I5469B86EP2BF4M3640F28V0Z339C9W16DEBA3F9A6203F0&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000067
 湖南卫视,http://www.8700956.top:18888/rtp/239.81.1.022:4056
 湖南卫视,http://183.92.4.163:4000/udp/228.0.0.61:6108
 凤凰资讯台,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
@@ -92,6 +90,14 @@ CCTV8K超高清,http://cdn.jdshipin.com:8880/ysp.php?id=cctv8k
 剧场第一,https://epg.pw/stream/5786b35cc03d1123a37e180495579c6e0fbd339c32542307be9a2e4388e04925.m3u8
 央视女性时尚,https://epg.pw/stream/1077cc124885bf8775068ce65630acf3ef9480488700f3b093314c6070bdb3e0.m3u8
 
+.央视3.,#genre#
+CCTV1,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6239DD00U319F204BK783FF8A8I5469B86EP2BF4M3640F28V0Z339C9W16DEBA3F9A6203F0&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000489
+CCTV2,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6239DD00U319F204BK783FF8A8I5469B86EP2BF4M3640F28V0Z339C9W16DEBA3F9A6203F0&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000061
+CCTV5,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6239DD00U319F204BK783FF8A8I5469B86EP2BF4M3640F28V0Z339C9W16DEBA3F9A6203F0&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000064
+CCTV5+,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6239DD00U319F204BK783FF8A8I5469B86EP2BF4M3640F28V0Z339C9W16DEBA3F9A6203F0&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000246
+CCTV9,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6239DD00U319F204BK783FF8A8I5469B86EP2BF4M3640F28V0Z339C9W16DEBA3F9A6203F0&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000128
+CCTV10,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6239DD00U319F204BK783FF8A8I5469B86EP2BF4M3640F28V0Z339C9W16DEBA3F9A6203F0&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000129
+CCTV13,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6239DD00U319F204BK783FF8A8I5469B86EP2BF4M3640F28V0Z339C9W16DEBA3F9A6203F0&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000067
 
 
 .卫视频道,#genre#
