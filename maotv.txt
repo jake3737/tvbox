@@ -2,13 +2,10 @@
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 CCTV1,http://www.8700956.top:18888/rtp/239.81.1.002:4056
 CCTV2,http://www.8700956.top:18888/rtp/239.81.1.003:4056
-CCTV-2 财经,http://183.92.4.163:4000/udp/228.0.0.2:6108
 CCTV5,http://www.8700956.top:18888/rtp/239.81.1.006:4056
-CCTV-5 体育,http://183.92.4.163:4000/udp/228.0.0.112:6108
 CCTV13,http://www.8700956.top:18888/rtp/239.81.1.014:4056
 CCTV-13 新闻,http://183.92.4.163:4000/udp/228.0.0.202:6108
 湖南卫视,http://www.8700956.top:18888/rtp/239.81.1.022:4056
-湖南卫视2,http://183.92.4.163:4000/udp/228.0.0.61:6108
 台湾民视,mitv://generationnexxxt.com:19806/7b662823ed634f1fad66ab442b177118
 台湾台视,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
 TVBS新闻台,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
@@ -90,25 +87,6 @@ CCTV8K超高清,http://cdn.jdshipin.com:8880/ysp.php?id=cctv8k
 剧场第一,https://epg.pw/stream/5786b35cc03d1123a37e180495579c6e0fbd339c32542307be9a2e4388e04925.m3u8
 央视女性时尚,https://epg.pw/stream/1077cc124885bf8775068ce65630acf3ef9480488700f3b093314c6070bdb3e0.m3u8
 
-.翡翠台,#genre#
-翡翠台(备),mitv://147.135.39.171:9906/657c8f940005cf8fa955b96f23e11195
-翡翠台,mitv://147.135.39.171:9906/657c8f9400023bf0a955b8853ca47814
-黄金翡翠台,mitv://generationnexxxt.com:19806/864714d6ebe847edaa948e9104107f12
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://r.jdshipin.com/n90gt
-翡翠台,http://r.jdshipin.com/qrfbg
-翡翠台,http://36.36.200.212:9901/tsfile/live/1008_1.m3u8?key=txiptv&url=tvzb.com
-翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=30025
-翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20127
-翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=30025
-翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20124J2
-翡翠台,http://r.jdshipin.com/n90gt
-翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://113.117.74.12:8081/hls/25/index.m3u8
-翡翠台,http://66.181.39.224/ml.php?id=jade_twn
-翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
 
 .卫视频道,#genre#
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
