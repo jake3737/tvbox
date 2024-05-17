@@ -1,5 +1,4 @@
 🌟幸福老罗,#genre#
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 CCTV1,http://www.8700956.top:18888/rtp/239.81.1.002:4056
 CCTV3,http://www.8700956.top:18888/rtp/239.81.1.004:4056
 CCTV4,http://www.8700956.top:18888/rtp/239.81.1.005:4056
@@ -7,18 +6,12 @@ CCTV8,http://www.8700956.top:18888/rtp/239.81.1.009:4056
 CCTV10,http://www.8700956.top:18888/rtp/239.81.1.011:4056
 CCTV12,http://www.8700956.top:18888/rtp/239.81.1.013:4056
 CCTV13,http://www.8700956.top:18888/rtp/239.81.1.014:4056
-湖南卫视,http://www.8700956.top:18888/rtp/239.81.1.022:4056
-台湾民视,mitv://generationnexxxt.com:19806/7b662823ed634f1fad66ab442b177118
-台湾台视,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
-TVBS新闻台,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
-三立新闻台,mitv://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
-东森新闻台,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
-台视新闻台,mitv://generationnexxxt.com:19806/9817b59742464113bd5656fcc7dced84
-中天新闻台,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
-凤凰资讯台,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
-凤凰香港台,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
-纬来体育台,mitv://generationnexxxt.com:19806/79090c69d43040148deaa21d5e26c32a
 TVB翡翠台,p3p://108.181.32.169:42430/6533f6560002787f2d01338b57197695
+凤凰香港台,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
+台湾台视,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
+台视新闻台,mitv://generationnexxxt.com:19806/9817b59742464113bd5656fcc7dced84
+TVBS新闻台,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
+东森新闻台,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
 tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 CNBC,mitv://generationnexxxt.com:19806/b642a4ce45734a7190f0acbd8cd462dd
 
