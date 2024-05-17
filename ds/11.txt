@@ -6,6 +6,7 @@ CCTV8,http://www.8700956.top:18888/rtp/239.81.1.009:4056
 CCTV10,http://www.8700956.top:18888/rtp/239.81.1.011:4056
 CCTV12,http://www.8700956.top:18888/rtp/239.81.1.013:4056
 CCTV13,http://www.8700956.top:18888/rtp/239.81.1.014:4056
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 TVB翡翠台,p3p://108.181.32.169:42430/6533f6560002787f2d01338b57197695
 凤凰香港台,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
 台湾台视,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
