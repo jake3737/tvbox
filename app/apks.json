@@ -205,10 +205,10 @@
                 "version": "v2.0"
             },
 			{
-                "name": "哔哩哔哩-TV",
+                "name": "我的电视",
                 "url": "https://raw.cachefly.998111.xyz/jake3737/tvbox/master/app/my-tv-v2.0.1.apk",
-                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-                "version": "v2.0"
+                "icon": "https://mirror.ghproxy.com/https://github.com/jake3737/tvbox/blob/master/logo/my-tv.png",
+                "version": "v2.0.1"
             }
         ]
     }
