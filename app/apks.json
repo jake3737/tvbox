@@ -24,6 +24,33 @@
             }
         ]
     },
+	    {
+        "name": "电视工具",
+        "list": [
+            {
+                "name": "我的电视",
+                "url": "https://raw.cachefly.998111.xyz/jake3737/tvbox/master/app/my-tv-v2.0.1.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v2.0"
+            },
+            {
+                "name": "当贝桌面",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/dangbei_4.1.7.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v2.0"
+            },
+            {
+                "name": "clash-meta",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/clash-meta.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v2.0"
+            },
+			{
+                "name": "K歌-IKTV",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/iktv.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v2.0"
+            },
     {
         "name": "影视FM-最新版",
         "list": [
@@ -82,33 +109,6 @@
             },
         ]
     },
-    {
-        "name": "电视工具",
-        "list": [
-            {
-                "name": "我的电视",
-                "url": "https://raw.cachefly.998111.xyz/jake3737/tvbox/master/app/my-tv-v2.0.1.apk",
-                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-                "version": "v2.0"
-            },
-            {
-                "name": "当贝桌面",
-                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/dangbei_4.1.7.apk",
-                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-                "version": "v2.0"
-            },
-            {
-                "name": "clash-meta",
-                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/clash-meta.apk",
-                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-                "version": "v2.0"
-            },
-			{
-                "name": "K歌-IKTV",
-                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/iktv.apk",
-                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-                "version": "v2.0"
-            },
         ]
     }
 ]
