@@ -15,7 +15,7 @@ TVBS新闻台,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 CNBC,mitv://generationnexxxt.com:19806/b642a4ce45734a7190f0acbd8cd462dd
 
-.央视1.,#genre#
+.央视高清.,#genre#
 CCTV-1 综合,http://183.92.4.163:4000/udp/228.0.0.1:6108
 CCTV-2 财经,http://183.92.4.163:4000/udp/228.0.0.2:6108
 CCTV-3 综艺,http://183.92.4.163:4000/udp/228.0.0.156:7156
@@ -35,7 +35,7 @@ CCTV-15 音乐,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/pro
 CCTV-16 奥林匹克,http://183.92.4.163:4000/udp/228.0.0.249:6108
 CCTV-17 农业农村,http://183.92.4.163:4000/udp/228.0.0.161:7161
 
-.央视2.,#genre#
+.央视1.,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 CCTV1,mitv://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
 CCTV2,mitv://generationnexxxt.com:19806/ce08ee69cea5402c99bf285704eac3e5
@@ -54,7 +54,7 @@ CCTV13,mitv://generationnexxxt.com:19806/89e640d10d2646d3b7580c9bd85e9565
 CCTV14,mitv://generationnexxxt.com:19806/5ce5a7ff03b541cc8ef405312b4fec09
 CCTV15,mitv://generationnexxxt.com:19806/8914df6967f546eb8cf20ea35946ad8d
 
-.央视3.,#genre#
+.央视2.,#genre#
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 CCTV1,http://www.8700956.top:18888/rtp/239.81.1.002:4056
 CCTV2,http://www.8700956.top:18888/rtp/239.81.1.003:4056
