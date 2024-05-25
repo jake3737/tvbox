@@ -1,11 +1,11 @@
 🌟幸福老罗,#genre#
-CCTV1,http://www.8700956.top:18888/rtp/239.81.1.002:4056
-CCTV3,http://www.8700956.top:18888/rtp/239.81.1.004:4056
-CCTV4,http://www.8700956.top:18888/rtp/239.81.1.005:4056
-CCTV8,http://www.8700956.top:18888/rtp/239.81.1.009:4056
-CCTV10,http://www.8700956.top:18888/rtp/239.81.1.011:4056
-CCTV12,http://www.8700956.top:18888/rtp/239.81.1.013:4056
-CCTV13,http://www.8700956.top:18888/rtp/239.81.1.014:4056
+CCTV1,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv1
+CCTV3,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv3
+CCTV4,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv4
+CCTV8,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv8
+CCTV10,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv10
+CCTV12,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv12
+CCTV13,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv13
 厦门卫视,http://www.8700956.top:18888/rtp/239.81.1.053:4056
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 凤凰香港台,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
@@ -14,6 +14,110 @@ CCTV13,http://www.8700956.top:18888/rtp/239.81.1.014:4056
 TVBS新闻台,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 CNBC,mitv://generationnexxxt.com:19806/b642a4ce45734a7190f0acbd8cd462dd
+
+
+
+CCTV1,http://www.8700956.top:18888/rtp/239.81.1.002:4056
+CCTV3,http://www.8700956.top:18888/rtp/239.81.1.004:4056
+CCTV4,http://www.8700956.top:18888/rtp/239.81.1.005:4056
+CCTV8,http://www.8700956.top:18888/rtp/239.81.1.009:4056
+CCTV10,http://www.8700956.top:18888/rtp/239.81.1.011:4056
+CCTV12,http://www.8700956.top:18888/rtp/239.81.1.013:4056
+CCTV13,http://www.8700956.top:18888/rtp/239.81.1.014:4056
+
+
+CCTV1,http://live.nctv.top/8/bfgd.php?id=488
+CCTV3,http://live.nctv.top/8/bfgd.php?id=062
+CCTV4,http://live.nctv.top/8/bfgd.php?id=063
+CCTV8,http://live.nctv.top/8/bfgd.php?id=066
+CCTV10,http://live.nctv.top/8/bfgd.php?id=129
+CCTV12,http://live.nctv.top/8/bfgd.php?id=131
+CCTV13,http://live.nctv.top/8/bfgd.php?id=067
+
+
+CCTV1,http://183.92.4.163:4000/udp/228.0.0.1:6108
+CCTV3,http://183.92.4.163:4000/udp/228.0.0.156:7156
+CCTV4,http://183.92.4.163:4000/udp/228.0.0.143:7143
+CCTV8,http://183.92.4.163:4000/udp/228.0.0.158:7158
+CCTV10,http://183.92.4.163:4000/udp/228.0.0.10:6108
+CCTV12,http://183.92.4.163:4000/udp/228.0.0.12:6108
+CCTV13,http://183.92.4.163:4000/udp/228.0.0.202:6108
+
+
+CCTV1,http://live.nctv.top/8/bestv.php?id=cctv1
+CCTV3,http://live.nctv.top/8/bestv.php?id=cctv3
+CCTV4,http://live.nctv.top/8/bestv.php?id=cctv4
+CCTV8,http://live.nctv.top/8/bestv.php?id=cctv8
+CCTV10,http://live.nctv.top/8/bestv.php?id=cctv10
+CCTV12,http://live.nctv.top/8/bestv.php?id=cctv12
+CCTV13,http://live.nctv.top/8/bestv.php?id=cctv13
+
+
+CCTV1,http://live.nctv.top/8/cqyx.php?id=cctv1
+CCTV3,http://live.nctv.top/8/cqyx.php?id=cctv3
+CCTV4,http://live.nctv.top/8/cqyx.php?id=cctv4
+CCTV8,http://live.nctv.top/8/cqyx.php?id=cctv8
+CCTV10,http://live.nctv.top/8/cqyx.php?id=cctv10
+CCTV12,http://live.nctv.top/8/cqyx.php?id=cctv12
+CCTV13,http://live.nctv.top/8/cqyx.php?id=cctv13
+
+
+
+CCTV1,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6239DD00U319F204BK783FF8A8I5469B86EP2BF4M3640F28V0Z339C9W16DEBA3F9A6203F0&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000489
+CCTV3,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6239DD00U319F204BK783FF8A8I5469B86EP2BF4M3640F28V0Z339C9W16DEBA3F9A6203F0&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000062
+CCTV4,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6239DD00U319F204BK783FF8A8I5469B86EP2BF4M3640F28V0Z339C9W16DEBA3F9A6203F0&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000063
+CCTV8,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6239DD00U319F204BK783FF8A8I5469B86EP2BF4M3640F28V0Z339C9W16DEBA3F9A6203F0&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000066
+CCTV10,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6239DD00U319F204BK783FF8A8I5469B86EP2BF4M3640F28V0Z339C9W16DEBA3F9A6203F0&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000129
+CCTV12,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6239DD00U319F204BK783FF8A8I5469B86EP2BF4M3640F28V0Z339C9W16DEBA3F9A6203F0&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000131
+CCTV13,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6239DD00U319F204BK783FF8A8I5469B86EP2BF4M3640F28V0Z339C9W16DEBA3F9A6203F0&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000067
+
+厦门卫视,http://gmxw.7766.org:808/hls/17/index.m3u8
+翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,http://r.jdshipin.com/qrfbg
+翡翠台,http://36.36.200.212:9901/tsfile/live/1008_1.m3u8?key=txiptv&url=tvzb.com
+翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=30025
+翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20127
+翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=30025
+翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20124J2
+翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://113.117.74.12:8081/hls/25/index.m3u8
+翡翠台,http://66.181.39.224/ml.php?id=jade_twn
+翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
+翡翠台,p2p://108.181.20.159:41357/653e4c6d000965ef0c8e049f4be34103
+翡翠台,p2p://108.181.20.159:41357/653e4c02000ea0440c8c63fd3e5d709d
+翡翠台,P2p://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7
+翡翠台,P2p://147.135.39.171:9906/661411cd000976fff92b536266ba32757
+翡翠台,P2p://generationnexxxt.com:19806/660d193500015d6c736dc89372d11bb9
+翡翠台,mitv://147.135.39.171:9906/657c8f9400023bf0a955b8853ca47814
+翡翠台,mitv://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7
+翡翠台,mitv://147.135.39.171:9906/661411cd000976fff92b536266ba32757
+凤凰香港台,http://www.lebaobei.top:6868/udp/239.255.30.123:8231
+凤凰香港台,http://103.95.24.37:880/fhxgt.m3u8 
+凤凰香港台,http://hikvision.city:880/fhxgt.m3u8
+台湾台视,p2p://108.181.20.159:41357/612ee2240008f3db8e0578dc59406f9e
+台湾台视,mitv://generationnexxxt.com:19806/3c20d4387ec845149b2ded5f28805f18
+台湾台视,http://193.233.206.48/QQ群212710857.php?id=电视直播源分享群QQ212710857--1
+台湾台视,http://154.216.191.59/ycdz/tw220.php?id=0
+台湾台视,http://193.233.206.48:8090/live/rx1/27/c97668adabe141e44ba9e447617106b3/index.m3u8
+台湾台视,http://193.233.206.48:8090/live/rx1/326/027eeed8cfe55d0d533fa80892de3060/index.m3u8
+台湾台视,http://193.233.206.48:8090/live/rx3/312/d5ffa08e7210d17241a4e4bcfa02e9ac/index.m3u8
+台视新闻,p2p://108.181.20.159:41357/62caf1dc000525b3cbb4de6e3c0e2af8
+台视新闻,https://yt-stream.livednow.com/stream/xL0ch83RAK8/master.m3u8
+台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+台视新闻,http://198.16.100.90:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+TVBS新闻台,http://194.87.101.118:9501/live.m3u8?c=5
+TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8 
+TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+CNBC,http://154.216.191.59/ycdz/tw220.php?id=24
 
 .央视频道,#genre#
 
