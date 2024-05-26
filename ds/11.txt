@@ -6,7 +6,6 @@ CCTV8,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv8
 CCTV10,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv10
 CCTV12,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv12
 CCTV13,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv13
-厦门卫视,http://www.8700956.top:18888/rtp/239.81.1.053:4056
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 凤凰香港台,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
 台湾台视,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
@@ -14,6 +13,7 @@ CCTV13,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv13
 TVBS新闻台,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 CNBC,mitv://generationnexxxt.com:19806/b642a4ce45734a7190f0acbd8cd462dd
+厦门卫视,http://www.8700956.top:18888/rtp/239.81.1.053:4056
 
 
 
