@@ -42,58 +42,23 @@ ATION,http://z88.ubtvfans.com/live/rx3/459/3193839f524da42b740386d2b88754ca/inde
 
 
 CCTV1,http://www.8700956.top:18888/rtp/239.81.1.002:4056
-CCTV3,http://www.8700956.top:18888/rtp/239.81.1.004:4056
-CCTV4,http://www.8700956.top:18888/rtp/239.81.1.005:4056
-CCTV8,http://www.8700956.top:18888/rtp/239.81.1.009:4056
-CCTV10,http://www.8700956.top:18888/rtp/239.81.1.011:4056
-CCTV12,http://www.8700956.top:18888/rtp/239.81.1.013:4056
 CCTV13,http://www.8700956.top:18888/rtp/239.81.1.014:4056
 
 
 CCTV1,http://live.nctv.top/8/bfgd.php?id=488
-CCTV3,http://live.nctv.top/8/bfgd.php?id=062
-CCTV4,http://live.nctv.top/8/bfgd.php?id=063
-CCTV8,http://live.nctv.top/8/bfgd.php?id=066
-CCTV10,http://live.nctv.top/8/bfgd.php?id=129
-CCTV12,http://live.nctv.top/8/bfgd.php?id=131
 CCTV13,http://live.nctv.top/8/bfgd.php?id=067
 
 
 CCTV1,http://183.92.4.163:4000/udp/228.0.0.1:6108
-CCTV3,http://183.92.4.163:4000/udp/228.0.0.156:7156
-CCTV4,http://183.92.4.163:4000/udp/228.0.0.143:7143
-CCTV8,http://183.92.4.163:4000/udp/228.0.0.158:7158
-CCTV10,http://183.92.4.163:4000/udp/228.0.0.10:6108
-CCTV12,http://183.92.4.163:4000/udp/228.0.0.12:6108
 CCTV13,http://183.92.4.163:4000/udp/228.0.0.202:6108
 
 
 CCTV1,http://live.nctv.top/8/bestv.php?id=cctv1
-CCTV3,http://live.nctv.top/8/bestv.php?id=cctv3
-CCTV4,http://live.nctv.top/8/bestv.php?id=cctv4
-CCTV8,http://live.nctv.top/8/bestv.php?id=cctv8
-CCTV10,http://live.nctv.top/8/bestv.php?id=cctv10
-CCTV12,http://live.nctv.top/8/bestv.php?id=cctv12
 CCTV13,http://live.nctv.top/8/bestv.php?id=cctv13
 
 
 CCTV1,http://live.nctv.top/8/cqyx.php?id=cctv1
-CCTV3,http://live.nctv.top/8/cqyx.php?id=cctv3
-CCTV4,http://live.nctv.top/8/cqyx.php?id=cctv4
-CCTV8,http://live.nctv.top/8/cqyx.php?id=cctv8
-CCTV10,http://live.nctv.top/8/cqyx.php?id=cctv10
-CCTV12,http://live.nctv.top/8/cqyx.php?id=cctv12
 CCTV13,http://live.nctv.top/8/cqyx.php?id=cctv13
-
-
-
-CCTV1,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6239DD00U319F204BK783FF8A8I5469B86EP2BF4M3640F28V0Z339C9W16DEBA3F9A6203F0&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000489
-CCTV3,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6239DD00U319F204BK783FF8A8I5469B86EP2BF4M3640F28V0Z339C9W16DEBA3F9A6203F0&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000062
-CCTV4,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6239DD00U319F204BK783FF8A8I5469B86EP2BF4M3640F28V0Z339C9W16DEBA3F9A6203F0&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000063
-CCTV8,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6239DD00U319F204BK783FF8A8I5469B86EP2BF4M3640F28V0Z339C9W16DEBA3F9A6203F0&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000066
-CCTV10,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6239DD00U319F204BK783FF8A8I5469B86EP2BF4M3640F28V0Z339C9W16DEBA3F9A6203F0&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000129
-CCTV12,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6239DD00U319F204BK783FF8A8I5469B86EP2BF4M3640F28V0Z339C9W16DEBA3F9A6203F0&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000131
-CCTV13,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6239DD00U319F204BK783FF8A8I5469B86EP2BF4M3640F28V0Z339C9W16DEBA3F9A6203F0&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000067
 
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/n90gt
@@ -128,14 +93,6 @@ CCTV13,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=ht
 台湾台视,http://193.233.206.48:8090/live/rx1/27/c97668adabe141e44ba9e447617106b3/index.m3u8
 台湾台视,http://193.233.206.48:8090/live/rx1/326/027eeed8cfe55d0d533fa80892de3060/index.m3u8
 台湾台视,http://193.233.206.48:8090/live/rx3/312/d5ffa08e7210d17241a4e4bcfa02e9ac/index.m3u8
-台视新闻,p2p://108.181.20.159:41357/62caf1dc000525b3cbb4de6e3c0e2af8
-台视新闻,https://yt-stream.livednow.com/stream/xL0ch83RAK8/master.m3u8
-台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-台视新闻,http://198.16.100.90:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-台视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 TVBS新闻台,http://194.87.101.118:9501/live.m3u8?c=5
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8 
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
