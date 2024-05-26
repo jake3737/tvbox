@@ -1,24 +1,4 @@
-18_1234,#genre#
-免子臺,http://z88.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
-松視2,http://z88.ubtvfans.com/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
-松視3,http://z88.ubtvfans.com/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
-🍌香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
-👅奧視🔞3,http://125.227.210.55:8917/VideoInput/play.ts
-🔮奧視2,http://125.227.210.55:55643/VideoInput/play.ts
-💖Sex ❌Girl,http://125.227.210.55:62698/VideoInput/play.ts
-松視1,http://z88.ubtvfans.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
-驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts
-玩美臺,http://z88.ubtvfans.com/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8
-彩虹k,http://z88.ubtvfans.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
-彩虹E,http://z88.ubtvfans.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
-Redlight,http://z88.ubtvfans.com/live/rx3/452/6b6f7f681d37860d87036d2099e3f99d/index.m3u8
-SEX ATION,http://z88.ubtvfans.com/live/rx3/459/3193839f524da42b740386d2b88754ca/index.m3u8
-潘多拉,http://18.svi-studio.com/live/176619383282/537544338952/3.m3u8
-
-
-
-
-🌟幸福老罗,#genre#
+abc,#genre#
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 CCTV1,http://www.8700956.top:18888/rtp/239.81.1.002:4056
 CCTV2,http://www.8700956.top:18888/rtp/239.81.1.003:4056
@@ -43,6 +23,20 @@ tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 CNBC,mitv://generationnexxxt.com:19806/b642a4ce45734a7190f0acbd8cd462dd
 ESPN,mitv://generationnexxxt.com:19806/2436baa9e481444fa785298d5931bdba
 NBA,mitv://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
+免子臺,http://z88.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
+松視2,http://z88.ubtvfans.com/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
+松視3,http://z88.ubtvfans.com/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
+🍌香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
+👅奧視🔞3,http://125.227.210.55:8917/VideoInput/play.ts
+🔮奧視2,http://125.227.210.55:55643/VideoInput/play.ts
+💖Sex ❌Girl,http://125.227.210.55:62698/VideoInput/play.ts
+松視1,http://z88.ubtvfans.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
+驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts
+玩美臺,http://z88.ubtvfans.com/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8
+彩虹k,http://z88.ubtvfans.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
+彩虹E,http://z88.ubtvfans.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
+ATION,http://z88.ubtvfans.com/live/rx3/459/3193839f524da42b740386d2b88754ca/index.m3u8
+潘多拉,http://18.svi-studio.com/live/176619383282/537544338952/3.m3u8
 
 
 
