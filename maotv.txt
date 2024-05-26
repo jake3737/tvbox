@@ -1,4 +1,4 @@
-abc,#genre#
+abc频道,#genre#
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 CCTV1,http://www.8700956.top:18888/rtp/239.81.1.002:4056
 CCTV2,http://www.8700956.top:18888/rtp/239.81.1.003:4056
@@ -141,6 +141,52 @@ TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 CNBC,http://154.216.191.59/ycdz/tw220.php?id=24
+
+
+.youtube直播,#genre#
+鳳凰資訊,https://www.youtube.com/live/HFib76ySpbU
+cctv4,https://www.youtube.com/watch?v=bEZYrBMYNNg
+環宇財經,https://www.youtube.com/live/25SE1bbTv9k
+台視新聞 TTV NEWS,https://www.youtube.com/watch?v=xL0ch83RAK8
+大愛電視 Tzu Chi DaAiVideo,https://www.youtube.com/watch?v=DTNkEm6jaqQ
+大愛電視 Tzu Chi DaAiVideo,https://www.youtube.com/watch?v=oV_i3Hsl_zg
+中視新聞 HD直播頻道｜Taiwan CTV news HD Live,https://www.youtube.com/watch?v=TCnaIE_SAtM
+華視新聞 CH52,https://www.youtube.com/live/wM0g8EoUZ_E
+華視新聞 CH52,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+TTV LIVE 台視直播,https://www.youtube.com/watch?v=uDqQo8a7Xmk
+大愛電視 Tzu Chi DaAiVideo,https://www.youtube.com/watch?v=MIqUplvSRWA
+鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+大愛電視 Tzu Chi DaAiVideo,https://www.youtube.com/watch?v=OKvWtVoDR8I
+公視台語台,https://www.youtube.com/watch?v=6KlRR_DGhmI
+57東森財經新聞,https://www.youtube.com/watch?v=LbS-xQ67fos
+三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
+中天深喉嚨,https://www.youtube.com/watch?v=WPfPjbOLNfE
+民視新聞網 Formosa TV News network,https://www.youtube.com/watch?v=ylYJSBUgaMA
+新唐人亞太電視台NTDAPTV,https://www.youtube.com/watch?v=WIhgU_mc05A
+57東森財經新聞,https://www.youtube.com/watch?v=WHEPzbFA3hw
+中天電視,https://www.youtube.com/watch?v=oIgbl7t0S_w
+國會頻道,https://www.youtube.com/watch?v=4HysYHJ6GkY
+三立LIVE新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
+TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
+公視新聞網,https://www.youtube.com/watch?v=quwqlazU-c8
+寰宇新聞 頻道,https://www.youtube.com/watch?v=6IquAgfvYmc
+公視 網路直播頻道,https://www.youtube.com/watch?v=C6gYqSHLRw4
+CTIASIA 中天亞洲台,https://www.youtube.com/watch?v=s2waUruqze4
+國會頻道,https://www.youtube.com/watch?v=tDg3bJFYLzI
+寰宇新聞 頻道,https://www.youtube.com/watch?v=w87VGpgd90U
+寰宇財經新聞,https://www.youtube.com/watch?v=25SE1bbTv9k
+歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』,https://www.youtube.com/watch?v=DjdUEyjx8GM
+TVB翡翠台,p3p://108.181.20.159:91634/653e4c02000ea0440c8c63fd3e5d709d
+TVB翡翠台 H.265,p3p://108.181.20.159:91634/653e4c6d000965ef0c8e049f4be34103
+東京NHK総合,p3p://108.181.20.159:91634/6417572e000d95e38c65829c13ce2f37
+TVBS新聞,p3p://108.181.20.159:91634/621858e3000e70ad1217c0700d576ad0
+東森新聞,p3p://108.181.20.159:91634/61468afa0005b339ea7014d376a616f3
+民視新聞,p3p://108.181.20.159:91634/602f1f4a000aa86fa700c49817387f81
+中天新聞,p3p://108.181.20.159:91634/613dba64000abeb1c801c02934bb45fc
+三立新聞,p3p://108.181.20.159:91634/6014c896000c7101401f67cc5477681b
+華視新聞,p3p://108.181.20.159:91634/632c706b0009d57248864b64705a59a0
+中視新聞,p3p://108.181.20.159:91634/61ff2b9d0004cfe6bb9a99f71e1c4c92
+台視新聞,p3p://108.181.20.159:91634/62caf1dc000525b3cbb4de6e3c0e2af8
 
 .央视频道,#genre#
 
