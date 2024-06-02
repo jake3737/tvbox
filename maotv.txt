@@ -46,17 +46,13 @@ ATION,http://z88.ubtvfans.com/live/rx3/459/3193839f524da42b740386d2b88754ca/inde
 
 
 .youtube直播,#genre#
-NDTV India | Hindi | https://i.imgur.com/pO4rzt2.jpg | 
-https://www.youtube.com/channel/UC9CYT9gSNLevX5ey2_6CK0Q/live
+NDTV India,https://www.youtube.com/channel/UC9CYT9gSNLevX5ey2_6CK0Q/live
 
-ABP NEWS | Hindi | https://i.imgur.com/UTkH9uA.jpg | 
-https://www.youtube.com/channel/UCRWFSbif-RFENbBrSiez1DA/live
+ABP NEWS,https://www.youtube.com/channel/UCRWFSbif-RFENbBrSiez1DA/live
 
-Zee News | Hindi | https://i.imgur.com/q5HR6p1.png | 
-https://www.youtube.com/channel/UCIvaYmXn910QMdemBG3v1pQ/live
+Zee News,https://www.youtube.com/channel/UCIvaYmXn910QMdemBG3v1pQ/live
 
-News18 India | Hindi | https://i.imgur.com/KQMMRmD.png |
-https://www.youtube.com/channel/UCPP3etACgdUWvizcES1dJ8Q/live
+News18 India,https://www.youtube.com/channel/UCPP3etACgdUWvizcES1dJ8Q/live
 鳳凰資訊,https://www.youtube.com/live/HFib76ySpbU
 環宇財經,https://www.youtube.com/live/25SE1bbTv9k
 台視新聞 TTV NEWS,https://www.youtube.com/watch?v=xL0ch83RAK8
