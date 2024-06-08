@@ -83,3 +83,40 @@ CTIASIA 中天亞洲台,https://www.youtube.com/watch?v=s2waUruqze4
 寰宇新聞 頻道,https://www.youtube.com/watch?v=w87VGpgd90U
 寰宇財經新聞,https://www.youtube.com/watch?v=25SE1bbTv9k
 歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』,https://www.youtube.com/watch?v=DjdUEyjx8GM
+
+YouTube2,#genre#
+台视新闻台HD,https://www.youtube.com/live/xL0ch83RAK8
+寰宇新闻台,https://www.youtube.com/live/6IquAgfvYmc
+寰宇新闻台湾台,https://www.youtube.com/live/w87VGpgd90U
+TVBS NEWS,https://www.youtube.com/live/m_dhMSvUCIc
+TVBS新聞,https://www.youtube.com/live/2mCSYvcfhtc
+中天新闻,https://www.youtube.com/live/oIgbl7t0S_w
+中天新聞2台,https://www.youtube.com/live/WPfPjbOLNfE
+民视新闻台,https://www.youtube.com/live/ylYJSBUgaMA
+民视戏剧,https://www.youtube.com/live/6CQZxYpW9q4
+东森新闻51频道,https://www.youtube.com/live/LuQ4S-i5zoE
+东森财经新闻,https://www.youtube.com/live/WHEPzbFA3hw
+國會頻道,https://www.youtube.com/live/4HysYHJ6GkY
+三立live新闻,https://www.youtube.com/live/oZdzzvxTfUY
+三立INEWS,https://www.youtube.com/live/CKjSm5ZeehE
+三立新聞,https://www.youtube.com/live/FoBfXvlOR6I
+mnews镜新闻,https://www.youtube.com/live/5n0y6b0Q25o
+公视新闻网,https://www.youtube.com/live/quwqlazU-c8
+华视综艺频道,https://www.youtube.com/live/IfKO17h4pVE
+華視戲劇頻道,https://www.youtube.com/live/WFXI3igmwDk
+华视综艺频道,https://www.youtube.com/live/IfKO17h4pVE
+CTS华视新闻,https://www.youtube.com/live/wM0g8EoUZ_E
+大愛一臺,https://www.youtube.com/live/MIqUplvSRWA
+大愛二臺,https://www.youtube.com/live/DTNkEm6jaqQ
+信大電視台,https://www.youtube.com/live/ciwFpYofb28
+中视新闻台,https://www.youtube.com/live/TCnaIE_SAtM
+中视亚洲台,https://www.youtube.com/live/s2waUruqze4
+中视经典综艺,https://www.youtube.com/live/ADDSmXoPDY8
+凤凰卫视资讯台,https://www.youtube.com/live/HFib76ySpbU
+DW德國之聲,https://youtu.be/tZT2MCYu6Zw
+HTB北海道,https://www.youtube.com/live/d8CrKBU99Hg
+ABC News,https://www.youtube.com/live/-mvUkiILTqI
+NASA TV,https://www.youtube.com/live/21X5lGlDOfg
+NASA Live,https://www.youtube.com/live/nA9UZF-SZoQ
+Euronews English,https://www.youtube.com/live/pykpO5kQJ98
+GB News,https://www.youtube.com/live/8WX6YL9JnLw
