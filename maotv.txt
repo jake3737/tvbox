@@ -41,8 +41,10 @@ NBA,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf
 ESPN,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=espn
 
 
-民视旅游,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftv-travel
+民视旅游,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftv-travel Globetrotter 環遊旅行家,https://noisy-nikoletta-jamin-9f6d6e7b.koyeb.app/litv/4gtv-4gtv016
+Globetrotter 環遊旅行家,https://z88.ubtvfans.com/live/rx1/114/3cd789f76d80cfa1ce9f5a570516261f/index.m3u8
 Globetrotter 環遊旅行家,https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=288
+生活旅遊,https://noisy-nikoletta-jamin-9f6d6e7b.koyeb.app/4gtv/175
 愛爾達生活旅遊台,https://www.4gtv.tv/channel/4gtv-live120?set=1&ch=237
 EYE 旅游台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=eye-travel
 ELTA 生活旅游台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=elta-lifetravel
@@ -94,8 +96,6 @@ ATION,http://z88.ubtvfans.com/live/rx3/459/3193839f524da42b740386d2b88754ca/inde
 台视新闻台HD,https://www.youtube.com/live/xL0ch83RAK8
 中視新聞 HD直播頻道｜Taiwan CTV news HD Live,https://www.youtube.com/watch?v=TCnaIE_SAtM
 華視新聞 CH52,https://www.youtube.com/live/wM0g8EoUZ_E
-東森新聞,https://www.youtube.com/watch?v=R2iMq5LKXco&ab_channel=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9ECH51
-東森新聞 CH51,https://www.youtube.com/watch?v=khuZW5GdBXo&ab_channel=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9ECH51
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 中天深喉嚨,https://www.youtube.com/watch?v=WPfPjbOLNfE
 民視新聞網 Formosa TV News network,https://www.youtube.com/watch?v=ylYJSBUgaMA
