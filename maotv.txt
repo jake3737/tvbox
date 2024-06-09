@@ -1,7 +1,8 @@
 abc频道,#genre#
-深圳卫视,http://113.109.250.69:9999/rtp/239.77.0.130:5146
+
 深圳卫视,https://tv.cry33.com/shenzhen.php?id=szws
 深圳卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=shenzhen
+深圳卫视,http://113.109.250.69:9999/rtp/239.77.0.130:5146
 深圳都市,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
 深圳都市,https://tv.cry33.com/shenzhen.php?id=szds
 深圳都市,http://113.64.145.231:8081/hls/68/index.m3u8
@@ -93,8 +94,8 @@ ATION,http://z88.ubtvfans.com/live/rx3/459/3193839f524da42b740386d2b88754ca/inde
 台视新闻台HD,https://www.youtube.com/live/xL0ch83RAK8
 中視新聞 HD直播頻道｜Taiwan CTV news HD Live,https://www.youtube.com/watch?v=TCnaIE_SAtM
 華視新聞 CH52,https://www.youtube.com/live/wM0g8EoUZ_E
-
-東森新聞 CH51,https://www.youtube.com/watch?v=khuZW5GdBXo
+東森新聞,https://www.youtube.com/watch?v=R2iMq5LKXco&ab_channel=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9ECH51
+東森新聞 CH51,https://www.youtube.com/watch?v=khuZW5GdBXo&ab_channel=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9ECH51
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 中天深喉嚨,https://www.youtube.com/watch?v=WPfPjbOLNfE
 民視新聞網 Formosa TV News network,https://www.youtube.com/watch?v=ylYJSBUgaMA
