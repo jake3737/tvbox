@@ -49,7 +49,6 @@ ELTA 生活旅游台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=
 TLC 旅游生活頻道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tlc
 旅游生活,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tlc_twn
 亚洲旅游,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=asiatravel_twn
-亞洲旅遊,https://www.4gtv.tv/channel/litv-longturn17?set=1&ch=250
 亚洲旅游,mitv://135.148.104.228:19806/259c24cb79ce4b5db1fb1e1b894c517e
 EYE TV旅游台,mitv://135.148.104.228:19806/2d426994acef44deb401aa8a4cd5a92e
 食尚玩家,http://125.227.210.55:8187/VideoInput/play.ts
