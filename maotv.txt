@@ -33,8 +33,6 @@ tvN,mitv://135.148.104.228:19806/5653c9fb655842ee99b4590ff903efe7
 爆谷影星台,http://dev.9528.eu.org/xvx.xx6868.online/bg-xy/stream/dc988679d0a93ab3ca49a52a4c5e6571/index.m3u8?token=5bd747bfebe8783df15e2fd5ae6bb4d4
 Astro欢喜台,mitv://135.148.104.228:19806/a2f732d447dc4c0b9e80417490de4e1d
 Hub都会,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=HubECity
-HUB都会,p3p://108.181.20.159:12345/64bbb7fc0000f99e0e7ccbda6e527811
-HUB娱家,p3p://108.181.20.159:12345/64bbb85e0009c5db0e7e4ceb66ad5c17
 Hub娱家,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=HubVVDrama
 博斯网球免翻aws,http://aws.5201972.xyz:5678/litv.php?id=litv-longturn09
 魅力台免翻serv,https://ohjust.serv00.net/litv.php?id=litv-longturn04
