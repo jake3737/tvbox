@@ -50,7 +50,10 @@ NBA,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf
 ESPN,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=espn
 
 
-民视旅游,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftv-travel Globetrotter 環遊旅行家,https://noisy-nikoletta-jamin-9f6d6e7b.koyeb.app/litv/4gtv-4gtv016
+民视旅游,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftv-travel 
+Globetrotter 環遊旅行家,http://106.107.242.158:5000/4gtv/288
+Globetrotter 環遊旅行家,http://37.128.252.61:5000/4gtv/288
+Globetrotter 環遊旅行家,https://noisy-nikoletta-jamin-9f6d6e7b.koyeb.app/litv/4gtv-4gtv016
 Globetrotter 環遊旅行家,https://z88.ubtvfans.com/live/rx1/114/3cd789f76d80cfa1ce9f5a570516261f/index.m3u8
 Globetrotter 環遊旅行家,https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=288
 生活旅遊,https://noisy-nikoletta-jamin-9f6d6e7b.koyeb.app/4gtv/175
@@ -78,11 +81,6 @@ TLC 旅游生活頻道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?ke
 客家电视台,http://61.224.69.212:9088/udp/224.1.4.201:11111
 客家电视台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv043
 客家电视台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hakkatv
-歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』,https://www.youtube.com/watch?v=DjdUEyjx8GM
-歌舞伎町 ライブ ちゃんねる 2『 Kabukicho Live Channel II 』,https://www.youtube.com/watch?v=gFRtAAmiFbE
-台北觀光即時影像 ,https://www.youtube.com/watch?v=z_fY1pj1VBw
-Taipei台北觀光即時影像 ,https://www.youtube.com/watch?v=Ndo_8RuefH4
-Sydney Live Camera,https://www.youtube.com/watch?v=sWWCy2WCjRA
 
 
 
@@ -104,29 +102,49 @@ ATION,http://z88.ubtvfans.com/live/rx3/459/3193839f524da42b740386d2b88754ca/inde
 
 
 .youtube直播,#genre#
-IndiaTV Sports,https://www.youtube.com/watch?v=X27HVrxhY_o
+
+歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=DjdUEyjx8GM
+歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』,https://www.youtube.com/watch?v=DjdUEyjx8GM
+歌舞伎町 ライブ ちゃんねる 2『 Kabukicho Live Channel II 』,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=gFRtAAmiFbE
+歌舞伎町 ライブ ちゃんねる 2『 Kabukicho Live Channel II 』,https://www.youtube.com/watch?v=gFRtAAmiFbE
+台北觀光即時影像 ,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=z_fY1pj1VBw
+台北觀光即時影像 ,https://www.youtube.com/watch?v=z_fY1pj1VBw
+Taipei台北觀光即時影像 ,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=Ndo_8RuefH4
+Taipei台北觀光即時影像 ,https://www.youtube.com/watch?v=Ndo_8RuefH4
+Sydney Live Camera,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=KPrrWB1eo1I
+Sydney Live Camera,https://www.youtube.com/watch?v=sWWCy2WCjRA
 India Today,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=sYZtOFzM78M
-台视新闻台HD,https://www.youtube.com/live/xL0ch83RAK8
-中視新聞 HD直播頻道｜Taiwan CTV news HD Live,https://www.youtube.com/watch?v=TCnaIE_SAtM
-華視新聞 CH52,https://www.youtube.com/live/wM0g8EoUZ_E
+IndiaTV Sports,https://www.youtube.com/watch?v=X27HVrxhY_o
+TVBS新聞,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=2mCSYvcfhtc
+民視新聞,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=ylYJSBUgaMA
+三立新聞,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=2mCSYvcfhtc
+東森新聞,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=R2iMq5LKXco
+華視新聞,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=wM0g8EoUZ_E
+中視新聞,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=TCnaIE_SAtM
+台視新聞,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=xL0ch83RAK8
+寰宇新聞,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=B7Zp3d6xXWw
+鏡新聞,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=5n0y6b0Q25o
+鳳凰衛視,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=HFib76ySpbU&pp=ygUM6bOz5Yew6KGb6KaW
+鳳凰資訊,https://y2b.880824.xyz/live?url=https://www..youtube.com/watch?v=a3WZVssKlAI&pp=ygUM6bOz5Yew6KGb6KaW
+中天新聞,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=oIgbl7t0S_w
+中天新聞,https://y2b.880824.xyz/live?url=https://www.youtube.com/live/oIgbl7t0S_w?feature=share
+台视新闻,https://www.youtube.com/live/xL0ch83RAK8
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+華視新聞,https://www.youtube.com/live/wM0g8EoUZ_E
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 中天深喉嚨,https://www.youtube.com/watch?v=WPfPjbOLNfE
-東森新聞,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=R2iMq5LKXco
 民視新聞網 Formosa TV News network,https://www.youtube.com/watch?v=ylYJSBUgaMA
 新唐人亞太電視台NTDAPTV,https://www.youtube.com/watch?v=WIhgU_mc05A
-公視新聞網,https://www.youtube.com/watch?v=quwqlazU-c8
-寰宇新闻台,https://www.youtube.com/live/6IquAgfvYmc
 寰宇新闻台湾台,https://www.youtube.com/live/w87VGpgd90U
-TVBS NEWS,https://www.youtube.com/live/m_dhMSvUCIc
 TVBS新聞,https://www.youtube.com/live/2mCSYvcfhtc
 中天新闻,https://www.youtube.com/live/oIgbl7t0S_w
 三立live新闻,https://www.youtube.com/live/oZdzzvxTfUY
 三立新聞,https://www.youtube.com/live/FoBfXvlOR6I
+DW德國之聲,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=pqabxBKzZ6M
 DW德國之聲,https://youtu.be/tZT2MCYu6Zw
 HTB北海道,https://www.youtube.com/live/d8CrKBU99Hg
 ABC News,https://www.youtube.com/live/-mvUkiILTqI
 NASA TV,https://www.youtube.com/live/21X5lGlDOfg
-NASA Live,https://www.youtube.com/live/nA9UZF-SZoQ
 Euronews English,https://www.youtube.com/live/pykpO5kQJ98
 GB News,https://www.youtube.com/live/8WX6YL9JnLw
 
@@ -135,32 +153,25 @@ GB News,https://www.youtube.com/live/8WX6YL9JnLw
 
 
 .央视频道,#genre#
+CCTV1,http://op.880824.xyz:5000/ysp/cctv1
+CCTV2,http://op.880824.xyz:5000/ysp/cctv2
+CCTV3,http://op.880824.xyz:5000/ysp/cctv3
+CCTV4,http://op.880824.xyz:5000/ysp/cctv4
+CCTV5,http://op.880824.xyz:5000/ysp/cctv5
+CCTV5+,http://op.880824.xyz:5000/ysp/cctv5p
+CCTV6,http://op.880824.xyz:5000/ysp/cctv6
+CCTV7,http://op.880824.xyz:5000/ysp/cctv7
+CCTV8,http://op.880824.xyz:5000/ysp/cctv8
+CCTV9,http://op.880824.xyz:5000/ysp/cctv9
+CCTV10,http://op.880824.xyz:5000/ysp/cctv10
+CCTV11,http://op.880824.xyz:5000/ysp/cctv11
+CCTV12,http://op.880824.xyz:5000/ysp/cctv12
+CCTV13,http://op.880824.xyz:5000/ysp/cctv13
+CCTV14,http://op.880824.xyz:5000/ysp/cctv14
+CCTV15,http://op.880824.xyz:5000/ysp/cctv15
+CCTV16,http://op.880824.xyz:5000/ysp/cctv16
+CCTV17,http://op.880824.xyz:5000/ysp/cctv17
 
-CCTV1,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv1
-CCTV2,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv2
-CCTV3,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv3
-CCTV4,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv4
-CCTV5,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv5
-CCTV5+,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv5p
-CCTV6,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv6
-CCTV7,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv7
-CCTV8,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv8
-CCTV9,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv9
-CCTV10,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv10
-CCTV11,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv11
-CCTV12,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv12
-CCTV13,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv13
-CCTV14,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv14
-CCTV15,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv15
-CCTV16,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv16
-CCTV17,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv17
-
-CCTV4K,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8
-CCTV4K,http://live.nctv.top/8/bestv.php?id=cctv4k
-CCTV16,https://itv.lat/tv/live.php?&line=1&id=cctv164k
-CCTV8K,https://tv.cry33.com/ys4k.php?id=8k25#https://tv.cry33.com/ys4k.php?id=8k
-CCTV8K,https://tv.cry33.com/ys4k.php?id=8k25#https://tv.cry33.com/ys4k.php?id=8k
-CCTV16,https://tv.cry33.com/ys4k.php?id=16-4k
 
 
 CCTV1,mitv://generationnexxxt.com:19806/1a50835e80564ba8ae28fce9bb7f228f
