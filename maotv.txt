@@ -81,6 +81,9 @@ TLC 旅游生活頻道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?ke
 客家电视台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hakkatv
 
 playboy,https://epg.pw/stream/499ceff5e81c0d852819d255ecf010f48aae834721b9352edeaf3f0f0fcb4563.m3u8
+playboy,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+Playboy,http://rhsbjv7k.tvclub.xyz/iptv/BWLFCKYQ48RESM/527/index.m3u8
+playboy,https://epg.pw/stream/385fd6d8c9a4ddfe5059d9366fe628c37c8a333396cade99f04d579e79b63505.m3u8
 松視2,http://z88.ubtvfans.com/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
 松視3,http://z88.ubtvfans.com/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
 🍌香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
