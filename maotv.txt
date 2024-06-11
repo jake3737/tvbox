@@ -82,9 +82,7 @@ TLC 旅游生活頻道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?ke
 客家电视台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv043
 客家电视台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hakkatv
 
-
-
-免子臺,http://z88.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
+playboy,https://epg.pw/stream/499ceff5e81c0d852819d255ecf010f48aae834721b9352edeaf3f0f0fcb4563.m3u8
 松視2,http://z88.ubtvfans.com/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
 松視3,http://z88.ubtvfans.com/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
 🍌香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
@@ -394,6 +392,38 @@ CCTV17,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=ht
 高尔夫网球,http://home.sylaigym.top:8887/rtp/239.69.1.83:10138
 
 .随意看看,#genre#
+JapaNews24,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=coYw-eVU0Ks
+KANSAI News24,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=iNPUWKft7hA
+メ～テレNEWS,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=-C6FE2m7kX8
+広島ニュース,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=e2pgLUmaxGs
+TBS NEWS,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=ohI356mwBp8
+HTB北海道,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=xWPD8KDHUH8
+YTN2,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=hxBTqmTT5gE
+YTN,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=FJfwehhzIhw
+THE K-POP,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=JVocS7Yftw8
+한국경제,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=NJUjU9ALj4A
+매일경제TV,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=s9xL1DpBsfQ
+YTN dmb,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=2C2WCLhDsR4
+YTN 사이언스,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=xfFa_kcPnCY
+Arirang TV,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=CJVBX7KI5nU
+MTN,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=CbjcNK6ae-s
+토마토TV,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=8rz4mn87lck
+이데일리TV,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=qVPkBc8cXy4
+ABC News,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=OOtxXPaQvoM
+FOX Weather,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=iesPl7zRbVY
+GB News,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=8WX6YL9JnLw
+Euronews français,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=NiRIbKwAejk
+CNA 24,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=XWq5kBlakcQ
+Astro AWANI,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=txxOwpdp58Q
+DZRH TV,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=rlOW_ZFwK68
+UNTV,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=nnDNIVquXyk
+tvOne,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=yNKvkPJl-tg
+WION,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=lmZRiDMK3OU
+ABP Majha,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=oIOnCCljFdw
+IndiaTV,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=Xmm3Kr5P1Uw
+TV9 Marathi,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=04y0H01GTg0
+
+
 
 新加坡U,p3p://108.181.20.159:12345/63af12910006ed72f51b72d64a0d2f0b
 新加坡5,p3p://108.181.20.159:12345/63af121200067443f519829f19620651
