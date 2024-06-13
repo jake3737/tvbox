@@ -1,23 +1,70 @@
 abc频道,#genre#
 
 深圳卫视,https://tv.cry33.com/shenzhen.php?id=szws
+深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
+深圳卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+深圳卫视,http://59.48.75.130:3052/tsfile/live/0126_1.m3u8?key=tvbox6_com&playlive=1&authid=0
 深圳卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=shenzhen
 深圳卫视,http://113.109.250.69:9999/rtp/239.77.0.130:5146
+
+
 深圳都市,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
+深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
 深圳都市,https://tv.cry33.com/shenzhen.php?id=szds
 深圳都市,http://113.64.145.231:8081/hls/68/index.m3u8
 深圳都市,http://113.109.250.69:9999/rtp/239.77.1.176:51
+
+厦门卫视,http://59.48.75.130:3052/tsfile/live/0129_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+厦门卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
+厦门卫视,http://114.240.144.19:5800/rtp/239.3.1.143:4120
+厦门卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6
 厦门卫视,p3p://108.181.20.159:12345/63ec4617000ea493e42b92ae132b3883
 厦门卫视,http://gmxw.7766.org:808/hls/17/index.m3u8
 厦门卫视,http://www.8700956.top:18888/rtp/239.81.1.053:4056
 厦门卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=xiamen
-厦门卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?IAS
+
 湖南都市,http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
+湖南都市,http://api2.52tb.xyz/info?id=567&token=20230218htjgzi
 湖南卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=hunws
 湖南卫视,http://live.nctv.top/886/cqyx.php?token=&id=hunws
 湖南卫视,http://183.92.4.163:4000/udp/228.0.0.61:6108
 湖南卫视,http://111.14.181.15:9901/tsfile/live/0128_1.m3u8
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226430/index.m3u8
+
+
+翡翠台,http://free.9528.eu.org:9529/stream/hk/test/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+翡翠台,mitv://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65
+爆谷影星台,http://dev.9528.eu.org/xvx.xx6868.online/bg-xy/stream/dc988679d0a93ab3ca49a52a4c5e6571/index.m3u8?token=5bd747bfebe8783df15e2fd5ae6bb4d4
+Now星影台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-baogu-superstars
+
+
+
+Sun Music,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=Sunmusic
+Sun Music,https://smart.ykq001.cloud/Smart.php?id=Sunmusic
+
+
+
+Globetrotter 環遊旅行家,https://z88.ubtvfans.com/live/rx1/114/3cd789f76d80cfa1ce9f5a570516261f/index.m3u8
+Globetrotter 環遊旅行家,http://106.107.242.158:5000/4gtv/288
+Globetrotter 環遊旅行家,http://37.128.252.61:5000/4gtv/288
+Globetrotter 環遊旅行家,https://noisy-nikoletta-jamin-9f6d6e7b.koyeb.app/litv/4gtv-4gtv016
+Globetrotter 環遊旅行家,https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=288
+
+tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
+tvN,https://z88.ubtvfans.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8
+tvN,mitv://135.148.104.228:19806/5653c9fb655842ee99b4590ff903efe7
+
+PLAYBOY HD,https://z88.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
+playboy HD,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+Playboy,http://spacetv.in/stream/DKQ6M3GWVG1/56.m3u8
+PLAYBOY,mitv://generationnexxxt.com:19806/47f99c6bdb9449a594cc0621f8980f3c
+PLAYBOY,mitv://135.148.104.228:19806/47f99c6bdb9449a594cc0621f8980f3c
+BUSTY LOVER,https://z88.ubtvfans.com/live/rx4/3093/2a861849d86e97cc28acbdb9729732c8/index.m3u8
+CUM 4K,https://z88.ubtvfans.com/live/rx4/3094/ea741775a7f562ad2b33e9ae4fc4c8cc/index.m3u8
+
+
+
 TVBS新闻,https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
 TVBS新闻,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 三立新闻,https://www.4gtv.tv/channel/4gtv-live089?set=1&ch=229
@@ -25,12 +72,8 @@ TVBS新闻,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 东森新闻台,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
 台视新闻台,mitv://generationnexxxt.com:19806/9817b59742464113bd5656fcc7dced84
 中天新闻台,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
-tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
-tvN,https://z88.ubtvfans.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8
-tvN,mitv://135.148.104.228:19806/5653c9fb655842ee99b4590ff903efe7
-翡翠台,http://free.9528.eu.org:9529/stream/hk/test/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
-翡翠台,mitv://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65
-爆谷影星台,http://dev.9528.eu.org/xvx.xx6868.online/bg-xy/stream/dc988679d0a93ab3ca49a52a4c5e6571/index.m3u8?token=5bd747bfebe8783df15e2fd5ae6bb4d4
+
+
 Astro欢喜台,mitv://135.148.104.228:19806/a2f732d447dc4c0b9e80417490de4e1d
 Hub都会,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=HubECity
 Hub娱家,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=HubVVDrama
@@ -49,11 +92,6 @@ ESPN,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092b
 
 
 民视旅游,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftv-travel 
-Globetrotter 環遊旅行家,http://106.107.242.158:5000/4gtv/288
-Globetrotter 環遊旅行家,http://37.128.252.61:5000/4gtv/288
-Globetrotter 環遊旅行家,https://noisy-nikoletta-jamin-9f6d6e7b.koyeb.app/litv/4gtv-4gtv016
-Globetrotter 環遊旅行家,https://z88.ubtvfans.com/live/rx1/114/3cd789f76d80cfa1ce9f5a570516261f/index.m3u8
-Globetrotter 環遊旅行家,https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=288
 生活旅遊,https://noisy-nikoletta-jamin-9f6d6e7b.koyeb.app/4gtv/175
 愛爾達生活旅遊台,https://www.4gtv.tv/channel/4gtv-live120?set=1&ch=237
 EYE 旅游台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=eye-travel
@@ -79,24 +117,6 @@ TLC 旅游生活頻道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?ke
 客家电视台,http://61.224.69.212:9088/udp/224.1.4.201:11111
 客家电视台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv043
 客家电视台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hakkatv
-
-playboy,https://epg.pw/stream/499ceff5e81c0d852819d255ecf010f48aae834721b9352edeaf3f0f0fcb4563.m3u8
-playboy,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-Playboy,http://rhsbjv7k.tvclub.xyz/iptv/BWLFCKYQ48RESM/527/index.m3u8
-playboy,https://epg.pw/stream/385fd6d8c9a4ddfe5059d9366fe628c37c8a333396cade99f04d579e79b63505.m3u8
-松視2,http://z88.ubtvfans.com/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
-松視3,http://z88.ubtvfans.com/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
-🍌香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
-👅奧視🔞3,http://125.227.210.55:8917/VideoInput/play.ts
-🔮奧視2,http://125.227.210.55:55643/VideoInput/play.ts
-💖Sex ❌Girl,http://125.227.210.55:62698/VideoInput/play.ts
-松視1,http://z88.ubtvfans.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
-驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts
-玩美臺,http://z88.ubtvfans.com/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8
-彩虹k,http://z88.ubtvfans.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
-彩虹E,http://z88.ubtvfans.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
-ATION,http://z88.ubtvfans.com/live/rx3/459/3193839f524da42b740386d2b88754ca/index.m3u8
-潘多拉,http://18.svi-studio.com/live/176619383282/537544338952/3.m3u8
 
 
 
@@ -147,7 +167,71 @@ NASA TV,https://www.youtube.com/live/21X5lGlDOfg
 Euronews English,https://www.youtube.com/live/pykpO5kQJ98
 GB News,https://www.youtube.com/live/8WX6YL9JnLw
 
-
+香蕉台,http://u6v.cn/6p6iQd
+潘多拉,http://u9v.cn/6hAvUu
+彩虹e,http://mtw.so/6hAvWAq
+彩虹k,http://mtw.so/6a470f
+松视-1,http://u6v.cn/5ysMWz
+松视3,http://mtw.so/6wCBqQ
+极限电影,http://u9v.cn/5FZsLd
+松視1台,http://220.134.74.149:6868/udp/224.1.4.68:11111
+松視2台,http://220.134.74.149:6868/udp/224.1.4.69:11111
+松視3台,http://220.134.74.149:6868/udp/224.1.4.70:11111
+彩虹電影,http://220.134.74.149:6868/udp/224.1.4.64:11111
+彩虹e,http://220.134.74.149:6868/udp/224.1.4.63:11111
+Happy,http://220.134.74.149:6868/udp/224.1.4.72:11111
+潘多拉玩美,http://220.134.74.149:6868/udp/230.1.2.39:11111
+極限電影台,http://220.134.74.149:6868/udp/230.1.2.32:11111
+K频道,http://220.134.74.149:6868/udp/224.1.4.65:11111
+驚艷有碼,http://220.134.74.149:6868/udp/230.1.2.27:11111
+香蕉無碼,http://220.134.74.149:6868/udp/230.1.2.94:11111
+松視1,https://z88.ubtvfans.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
+松视1台,https://z88.ubtvfans.com/live/rx3/2905/daf5dc8e6ec09a9f9fa07764441d1ebc/index.m3u8
+松视2台,https://z88.ubtvfans.com/live/rx3/2906/786522c38e02f6af5fea35725319e11a/index.m3u8
+松視2,https://z88.ubtvfans.com/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
+松視3,https://z88.ubtvfans.com/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
+松视3台,https://z88.ubtvfans.com/live/rx3/2907/996ead584b34542d91ef9b92b8184d0a/index.m3u8
+潘朵拉完美,https://z88.ubtvfans.com/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8
+彩虹電影,https://z88.ubtvfans.com/live/rx3/413/f39876dcbac1ca67fd1c1015cfc2af27/index.m3u8
+HAPPY,https://z88.ubtvfans.com/live/rx3/2908/83e945f894f770bf9e93b7e157cd0a8b/index.m3u8
+JStar,https://z88.ubtvfans.com/live/rx3/2909/bcf2a48c5327078d0602115b3fdee5fe/index.m3u8
+彩虹E,https://z88.ubtvfans.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
+彩虹E,https://z88.ubtvfans.com/live/rx4/2935/abd12ad135442a70846dc7d5e271e1a7/index.m3u8
+彩虹K,https://z88.ubtvfans.com/live/rx3/2910/93401212fa841510fb427f56dc3e4d5b/index.m3u8
+彩虹K,https://z88.ubtvfans.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
+Amazing,https://z88.ubtvfans.com/live/rx4/2931/0abbe9024509c229983e5c124e987107/index.m3u8
+彩虹电影,https://z88.ubtvfans.com/live/rx4/2934/e36bc489afabbf84ed6ae225b1400ae8/index.m3u8
+Brazzers TV,https://z88.ubtvfans.com/live/rx4/3076/3a0c10f7cbef649260674b025dda4dc0/index.m3u8
+Vivid Touch,https://z88.ubtvfans.com/live/rx4/3078/69852c14a4ed9a4589f372665e812d7a/index.m3u8
+Erox,https://z88.ubtvfans.com/live/rx4/3079/b3c7e541272ada38dcb46e19130fa63e/index.m3u8
+Red Hot,https://z88.ubtvfans.com/live/rx4/3080/8dfdbfc22b31a2ad82dbd3c7fc7fa150/index.m3u8
+Exxxtasy,https://z88.ubtvfans.com/live/rx4/3081/9d623078b74ba5c6af7ae187f80452ca/index.m3u8
+Penthouse Quickie,https://z88.ubtvfans.com/live/rx4/3082/f7658deac9432e6698292a88bef34f27/index.m3u8
+RED LIPS,https://z88.ubtvfans.com/live/rx4/3083/6ef2e595d60711cdb8d5651a1bafad0f/index.m3u8
+VIXEN,https://z88.ubtvfans.com/live/rx4/3084/31362cad3e5b2c34fabdf7b30aceb4d0/index.m3u8
+BRAZZERS EN ESPANOL,https://z88.ubtvfans.com/live/rx4/3092/8242d697b1f91c30f797fa8916e3263c/index.m3u8
+BUSTY LOVER,https://z88.ubtvfans.com/live/rx4/3093/2a861849d86e97cc28acbdb9729732c8/index.m3u8
+CUM 4K,https://z88.ubtvfans.com/live/rx4/3094/ea741775a7f562ad2b33e9ae4fc4c8cc/index.m3u8
+Red Light,https://z88.ubtvfans.com/live/rx4/3075/82daf5b1d963b1da35609093da43e0a9/index.m3u8
+Blue Hustler,https://z88.ubtvfans.com/live/rx4/3077/34024a0b6853c755124c206981e6b846/index.m3u8
+潘朵拉完美,https://z88.ubtvfans.com/live/rx4/2932/70e6bd09d28338e7379fc5e7e151f0e1/index.m3u8
+Banana香蕉,https://z88.ubtvfans.com/live/rx3/2930/3bd19ceb41bccf7790ee168b92b69985/index.m3u8
+LOOK,https://z88.ubtvfans.com/live/rx4/2933/60497d63c7532401bb5795a8e2a9adaa/index.m3u8
+Babes TV HD,https://z88.ubtvfans.com/live/rx3/458/48f056744305b13550c2f2b8b06c968d/index.m3u8
+Hustler HD,https://z88.ubtvfans.com/live/rx3/451/0beb7b22b55cbb81f36594df14b42858/index.m3u8
+Redlight HD,https://z88.ubtvfans.com/live/rx3/452/6b6f7f681d37860d87036d2099e3f99d/index.m3u8
+SEX ATION HD,https://z88.ubtvfans.com/live/rx3/459/3193839f524da42b740386d2b88754ca/index.m3u8
+Passie,https://z88.ubtvfans.com/live/rx3/461/5c00cfd7ef372e5376b3ad9bb5b48f4e/index.m3u8
+極限電影,https://z88.ubtvfans.com/live/rx3/405/f72f337b1279855143cddce063a60cd6/index.m3u8
+PLAYBOY HD,https://z88.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
+EXXXTRA SMALL,https://z88.ubtvfans.com/live/rx4/3099/592ead3e045913f8f0d714a2ff1abc54/index.m3u8
+DAUGHTER SWAP,https://z88.ubtvfans.com/live/rx4/3095/891c69728260f3cda8e352a37136d637/index.m3u8
+DEEPER,https://z88.ubtvfans.com/live/rx4/3096/bbb2f5a74e6a08e7e7e75cc593f273f6/index.m3u8
+DIGITAL PLAYGROUND,https://z88.ubtvfans.com/live/rx4/3097/901cc0a4cec7b1fbda172e92bb66560f/index.m3u8
+EROTIC SPICE,https://z88.ubtvfans.com/live/rx4/3098/dbd6d13c792f14549e1d2863bc35e588/index.m3u8
+FAKE AGENT,https://z88.ubtvfans.com/live/rx4/3100/dbefa736bf8672b31f85be095d226729/index.m3u8
+FAKE AGENT UK,https://z88.ubtvfans.com/live/rx4/3101/f2ecc13e9909655c1d073bb2ed9ce2bf/index.m3u8
+FAKE COP,https://z88.ubtvfans.com/live/rx4/3102/c7b0ba56b04abe5eb387ce96a7ca129d/index.m3u8
 
 
 
@@ -393,38 +477,6 @@ CCTV17,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=ht
 高尔夫网球,http://home.sylaigym.top:8887/rtp/239.69.1.83:10138
 
 .随意看看,#genre#
-JapaNews24,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=coYw-eVU0Ks
-KANSAI News24,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=iNPUWKft7hA
-メ～テレNEWS,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=-C6FE2m7kX8
-広島ニュース,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=e2pgLUmaxGs
-TBS NEWS,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=ohI356mwBp8
-HTB北海道,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=xWPD8KDHUH8
-YTN2,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=hxBTqmTT5gE
-YTN,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=FJfwehhzIhw
-THE K-POP,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=JVocS7Yftw8
-한국경제,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=NJUjU9ALj4A
-매일경제TV,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=s9xL1DpBsfQ
-YTN dmb,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=2C2WCLhDsR4
-YTN 사이언스,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=xfFa_kcPnCY
-Arirang TV,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=CJVBX7KI5nU
-MTN,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=CbjcNK6ae-s
-토마토TV,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=8rz4mn87lck
-이데일리TV,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=qVPkBc8cXy4
-ABC News,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=OOtxXPaQvoM
-FOX Weather,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=iesPl7zRbVY
-GB News,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=8WX6YL9JnLw
-Euronews français,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=NiRIbKwAejk
-CNA 24,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=XWq5kBlakcQ
-Astro AWANI,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=txxOwpdp58Q
-DZRH TV,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=rlOW_ZFwK68
-UNTV,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=nnDNIVquXyk
-tvOne,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=yNKvkPJl-tg
-WION,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=lmZRiDMK3OU
-ABP Majha,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=oIOnCCljFdw
-IndiaTV,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=Xmm3Kr5P1Uw
-TV9 Marathi,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=04y0H01GTg0
-
-
 
 新加坡U,p3p://108.181.20.159:12345/63af12910006ed72f51b72d64a0d2f0b
 新加坡5,p3p://108.181.20.159:12345/63af121200067443f519829f19620651
@@ -480,8 +532,6 @@ SUN TV,mitv://135.148.104.228:19806/4bb094b241874180af9f61a56370ce35
 Sun TV,https://smart.ykq001.cloud/Smart.php?id=Suntv
 Star Vijay,https://smart.ykq001.cloud/Smart.php?id=Starvijay
 Star Vijay,mitv://135.148.104.228:19806/9ae9ad5dd9884ef5b30d006572db2572
-Sun Music,https://smart.ykq001.cloud/Smart.php?id=Sunmusic
-Sun Music,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=Sunmusic
 Sun TV Tamil,p3p://108.181.32.169:37861/641385a2000d8ae7a59bf7ad23443b39
 Sony Yay Tamil,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sonyyaytam_raj
 Sun TV India,https://smart.ykq001.cloud/Smart.php?id=suntv_raj
