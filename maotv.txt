@@ -77,6 +77,7 @@ TVBS新闻,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 Astro欢喜台,mitv://135.148.104.228:19806/a2f732d447dc4c0b9e80417490de4e1d
 Hub都会,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=HubECity
 Hub娱家,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=HubVVDrama
+Now欧洲杯,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-618
 博斯网球免翻aws,http://aws.5201972.xyz:5678/litv.php?id=litv-longturn09
 魅力台免翻serv,https://ohjust.serv00.net/litv.php?id=litv-longturn04
 博斯無限台,https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn10
