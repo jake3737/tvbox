@@ -39,7 +39,9 @@ abc频道,#genre#
 Now星影台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-baogu-superstars
 
 
-
+SunMusic,https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=sunmusic
+SunMusic,https://lsj.37o.xyz/histar.php?id=sunmusic
+SunMusic,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sunmusic
 Sun Music,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=Sunmusic
 Sun Music,https://smart.ykq001.cloud/Smart.php?id=Sunmusic
 
