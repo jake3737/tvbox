@@ -45,6 +45,7 @@ Sun Music,https://smart.ykq001.cloud/Smart.php?id=Sunmusic
 
 
 
+Globetrotter 環遊旅行家,http://www.ubvip1688.com/ublive/649752eb1af7e831.m3u8
 Globetrotter 環遊旅行家,https://z88.ubtvfans.com/live/rx1/114/3cd789f76d80cfa1ce9f5a570516261f/index.m3u8
 Globetrotter 環遊旅行家,http://106.107.242.158:5000/4gtv/288
 Globetrotter 環遊旅行家,http://37.128.252.61:5000/4gtv/288
@@ -57,7 +58,10 @@ tvN,mitv://135.148.104.228:19806/5653c9fb655842ee99b4590ff903efe7
 FASHION TV,http://42.117.151.255:2052/udp/225.1.4.20:30120
 FASHION TV,http://42.117.151.255:2052/udp/225.1.2.227:30120
 France 24,http://42.117.151.255:2052/udp/225.1.2.211:30120
+法國時裝,https://f21.unityanuc.com/live/rx3/2287/a999781167a6cc9754720051c0f4ffc9/index.m3u8
 法國時裝,https://z88.ubtvfans.com/live/rx3/2287/a999781167a6cc9754720051c0f4ffc9/index.m3u8
+PLAYBOY HD,https://f22.ccplay22aldrich.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
+PLAYBOY HD,https://fm1077.serv00.net/anbo/index.php?id=411
 PLAYBOY HD,https://z88.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
 PLAYBOY HD,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 Playboy,http://spacetv.in/stream/DKQ6M3GWVG1/56.m3u8
