@@ -4,7 +4,8 @@
 
    "sites": [
 {"key": "csp_douban","name": "💮幸福老罗","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
-    {
+  {"key": "dr_好趣网","name": "📺好趣网[DR]","type": 3,"api": "./libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/直播/好趣网[直].js"},
+{
       "key": "py_Douban",
       "name": "熱播",
       "type": 3,
@@ -325,7 +326,7 @@
 {"key": "dr_笔趣阁[书]","name": "🍠笔趣阁[书][DR]","type": 3,"api": "./libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "./js/小说/笔趣阁[书].js"},
 {"key": "dr_DJ音乐[音]","name": "🍈DJ音乐[音][DR]","type": 3,"api": "./libs/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 1,"ext": "./js/音乐/DJ音乐[音].js"},
 {"key": "dr_KTV歌厅[音]","name": "🍈KTV歌厅[音][DR]","type": 3,"api": "./libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "./js/音乐/KTV歌厅[音].js"},
-{"key": "Iktv","name": "🎶KTV┃SP","type": 3,"api": "csp_Iktv","searchable": 1,"changeable": 0},
+
 {"key":"豆瓣","name":"🍥┃豆瓣┃预告","type":3,"api":"csp_YGP","playerType":2,"searchable":0},
 {"key":"相声小品","name":"🍓相声┃小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/sub/Blixs.json"},
 {"key":"戏曲","name":"🌤戏曲┃大全","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/sub/Blixq.json"},
