@@ -323,10 +323,14 @@
     },
 {"key": "dr_博看听书[听]","name": "🍋博看听书[听][DR]","type": 3,"api": "./libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "./js/听书/博看听书[听].js"},
 {"key": "dr_播客[听]","name": "🍋播客[听][DR]","type": 3,"api": "./libs/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./js/听书/播客[听].js"},
+{"key": "dr_喜马拉雅[听]","name": "🍋喜马拉雅[听][DR]","type": 3,"api": "./libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "./js/听书/喜马拉雅[听].js"},
+{"key": "dr_老白故事[听]","name": "🍋老白故事[听][DR]","type": 3,"api": "./libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "./js/听书/老白故事[听].js"},
 {"key": "dr_笔趣阁[书]","name": "🍠笔趣阁[书][DR]","type": 3,"api": "./libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "./js/小说/笔趣阁[书].js"},
+{"key": "dr_笔趣阁13[书]","name": "🍠笔趣阁13[书][DR]","type": 3,"api": "./libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "./js/小说/笔趣阁13[书].js"},
 {"key": "dr_DJ音乐[音]","name": "🍈DJ音乐[音][DR]","type": 3,"api": "./libs/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 1,"ext": "./js/音乐/DJ音乐[音].js"},
 {"key": "dr_KTV歌厅[音]","name": "🍈KTV歌厅[音][DR]","type": 3,"api": "./libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "./js/音乐/KTV歌厅[音].js"},
-
+{"key": "dr_ASMR助眠[音]","name": "🍈ASMR助眠[音][DR]","type": 3,"api": "./libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "./js/音乐/ASMR助眠[音].js"},
+{"key": "MTV转点播","name": "🍈MTV[音]","type": 3,"playerType": 2,"api": "./libs/音乐转点播.js","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 1.597},"ext": "./js/json/MTV2.txt"},
 {"key":"豆瓣","name":"🍥┃豆瓣┃预告","type":3,"api":"csp_YGP","playerType":2,"searchable":0},
 {"key":"相声小品","name":"🍓相声┃小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/sub/Blixs.json"},
 {"key":"戏曲","name":"🌤戏曲┃大全","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/sub/Blixq.json"},
@@ -541,10 +545,230 @@
 {"key":"csp_BookTing","name":"📚┃听书┃音频","type":3,"playerType":"2","api":"csp_BookTing","searchable":0,"ext":"https://m.ting275.com","style":{"type":"rect","ratio":1.333}},
 {"key":"csp_YouShengBook","name":"📚┃有声┃小说","type":3,"playerType":"2","api":"csp_YouShengBook","searchable":0,"style":{"type":"rect","ratio":1.333}},
 {"key":"樱花动漫","name":"🌸┃樱花┃动漫","type":3,"playerType":"2","api":"csp_Ying"},
-
-
 {"key":"在线┃直播1","name":"📺┃竞技┃直播","type":3,"api":"http://dt.xn--yety82d.love/js/lib/drpy2.min.js","ext":"http://dt.xn--yety82d.love/js/JustLive.js","gridview":"0-0-H","style":{"type":"rect","ratio":1.68}},
 
+
+
+{"key": "dr_script直播[直]","name": "🥦script直播[直][DR]","type": 3,"api": "./libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "./js/直播/script直播[直].js"},
+{"key": "易看资源","name": "🍃易看资源┃采集","type": 1,"api": "https://api.yikanapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
+ {
+      "key": "91md.me",
+      "name": "💕91麻豆",
+      "type": 1,
+      "api": "http://91md.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "18AV",
+      "name": "💕18AV",
+      "type": 3,
+      "api": "csp_Eighteen",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      }
+    },
+    {
+      "key": "Jable",
+      "name": "💕Jable",
+      "type": 3,
+      "api": "csp_Jable",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.77
+      }
+    },
+    {
+      "key": "MissAV",
+      "name": "💕MissAV",
+      "type": 3,
+      "api": "csp_Miss",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.78
+      }
+    },
+    {
+      "key": "apilj.com",
+      "name": "💕火辣",
+      "type": 1,
+      "api": "http://apilj.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "dadiapi.com",
+      "name": "💕大地",
+      "type": 0,
+      "api": "http://dadiapi.com/api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "f2dcj6.com",
+      "name": "💕二代",
+      "type": 0,
+      "api": "http://f2dcj6.com/sapi?ac=videolist",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "fhapi9.com",
+      "name": "💕番號",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "155zy.com",
+      "name": "💕155",
+      "type": 1,
+      "api": "https://155api.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "api.apilyzy.com",
+      "name": "💕老鴨",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "didizy.com",
+      "name": "💕滴滴",
+      "type": 1,
+      "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "api.maozyapi.com",
+      "name": "💕色貓",
+      "type": 1,
+      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "sesehuzy.com",
+      "name": "💕色虎",
+      "type": 1,
+      "api": "https://apisesehuzy.com/api.php/providedao/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "tantanzy.com",
+      "name": "💕探探",
+      "type": 1,
+      "api": "https://apittzy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "gqzy.me",
+      "name": "💕搞起",
+      "type": 1,
+      "api": "https://caiji.gqjiexi.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jkunzy.com",
+      "name": "💕JUKN",
+      "type": 1,
+      "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lbapi9.com",
+      "name": "💕樂播",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "senlinzy.com",
+      "name": "💕森林",
+      "type": 1,
+      "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "afasu.com",
+      "name": "💕濕妹",
+      "type": 0,
+      "api": "https://www.afasu.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "gdlsp.com",
+      "name": "💕香奶兒",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "kxgav.com",
+      "name": "💕色慾",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "msnii.com",
+      "name": "💕少女",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "pgxdy.com",
+      "name": "💕絲襪",
+      "type": 0,
+      "api": "https://www.pgxdy.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "xrbsp.com",
+      "name": "💕樂魚",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
 
 
 
@@ -552,9 +776,6 @@
 {"key":"小灯塔地理","name":"🌏小灯塔地理","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huaitingpeng/movies/raw/main/jar/bilibili/儿童地理.json"},
 {"key":"小灯塔百科","name":"🌏小灯塔百科","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huaitingpeng/movies/raw/main/jar/bilibili/儿童百科.json"},
 {"key":"小灯塔国学","name":"🌏小灯塔国学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huaitingpeng/movies/raw/main/jar/bilibili/儿童国学.json"},
-
-
-
 {"key":"登录","name":"☁️云盘┃登录┃设置","type":3,"api":"csp_AliYunPan","jar":"http://我不是.摸鱼儿.top/by/jar/xpbq.php","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 {"key":"弹幕配置","name":"⚙️弹幕┃高级┃设置","type":3,"api":"csp_Config","jar":"http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},
 {"key":"doudouxie","name":"🐋玩偶哥哥┃4K弹幕","type":3,"api":"csp_Wogg","jar":"http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","wogg":true,"danmu":true},"timeout":30},{"key":"七夜","name":"🌖┃七夜┃网盘","type":3,"api":"csp_Dovx","ext":"http://127.0.0.1:9978/file/fatcat/token.txt"},
@@ -608,10 +829,10 @@
         },
 
         {
-            "name": "直播综合",
+            "name": "哈哈直播",
             "ua": "okhttp/3.15",
             "type": 0,
-            "url": "https://raw.cachefly.998111.xyz/zengchaoqun0625/movies/main/ds/aptv-lives.txt",
+            "url": "https://alvin.serv00.net/All.php",
             "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
