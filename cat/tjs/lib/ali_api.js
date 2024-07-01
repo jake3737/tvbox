@@ -103,7 +103,9 @@ function aliExpection(data_str) {
     } else if (data_str.indexOf("BadRequest") > -1) {
         return {code: 402, content: data_str}
     } else if (data_str.indexOf("NotFound.File") > -1 || data_str.indexOf("ForbiddenFileInTheRecycleBin") > -1) {
-        return {code: 403, content: data_str}
+        return {code: 403, content: data_str} 
+    } else if (data_str.indexOf("user not allowed access drive") > -1){
+        return {code: 404, content: data_str}
     } else if (data_str.indexOf("ForbiddenNoPermission.File") > -1) {
         return {code: 500, content: data_str}
     } else if (data_str.indexOf("InvalidParameter.ToParentFileId") > -1) {
@@ -111,6 +113,8 @@ function aliExpection(data_str) {
     } else if (data_str.indexOf("NotFound.ParentFileId") > -1) {
         return {code: 502, content: data_str}
     } else if (data_str.indexOf("The resource drive has exceeded the limit. File size exceeded drive capacity") > -1) {
+        return {code: 503, content: data_str}
+    }else if (data_str.indexOf("The resource drive has exceeded the limit. File size exceeded drive capacity") > -1) {
         return {code: 503, content: data_str}
     }
     return {code: 200, content: data_str}
@@ -160,7 +164,7 @@ async function oauthFunc(url, params, retry) {
     let open_header = getHeaderOpen();
     let response = await postJson(url, params, open_header);
     response = aliExpection(response.content)
-    if (retry && (response.code === 400 || response.code === 401 || response.code === 429 || response.code === 402 || response.code === 403)) {
+    if (retry && (response.code === 400 || response.code === 401 || response.code === 429 || response.code === 402 || response.code === 403 || response.code === 404)) {
         if (response.code === 400) {
             await JadeLog.error("阿里授权失败,失败原因为:授权Token无效,准备重新授权,失败详情:" + response.content)
             await activateRefreshOpenToken()
@@ -174,7 +178,10 @@ async function oauthFunc(url, params, retry) {
             await JadeLog.error("阿里授权失败,失败原因为:没有找到缓存文件,失败详情:" + response.content)
             await cleanRecord()
             return "retry"
-        } else if (response.code === 429) {
+        }else if (response.code === 404) {
+            await JadeLog.error("阿里授权失败,失败原因为:用户没有权限" + response.content)
+            return await oauthFunc(url, params, true)
+        }else if (response.code === 429) {
             await JadeLog.error(`正在请求需要阿里授权的url:${url},请求过于频繁,稍后重试,10分钟后再重试`)
             Utils.sleep(10 * 60)
             return await oauthFunc(url, params, true)
@@ -306,8 +313,7 @@ async function refreshOpenToken() {
     }
 }
 
-async function getFileByShare(share_token, share_url, video_item_list, sub_item_list) {
-    await JadeLog.info(`正在获取播放链接,分享链接为:${share_url}`)
+async function getFileByShare(index,share_token, share_url, video_item_list, sub_item_list) {
     let params = {};
     params.share_id = shareId;
     let file_id = share_url.split("folder/").slice(-1)[0]
@@ -317,27 +323,15 @@ async function getFileByShare(share_token, share_url, video_item_list, sub_item_
     let response_str = await post("adrive/v3/share_link/get_share_by_anonymous", params),
         response_json = JSON.parse(response_str), item_file_id = getParentFileId(file_id, response_json),
         item = new Item(item_file_id);
-    await listFiles(item, video_item_list, sub_item_list, share_token);
+    await listFiles(index,item, video_item_list, sub_item_list, share_token);
 }
 
-async function getVod(video_item_list, sub_item_list, type_name) {
-    let play_foramt_list = ["原画", "超清", "高清", "标清"], episode_list = [], episode_str_list = [];
-    for (const video_item of video_item_list) {
-        episode_list.push(video_item.getDisplayName(type_name) + "$" + video_item.getFileId() + "+" + video_item.shareId + "+" + video_item.shareToken + findSubs(video_item.getName(), sub_item_list));
-    }
-    for (let index = 0; index < play_foramt_list.length; index++) {
-        episode_str_list.push(episode_list.join("#"));
-    }
-    return {
-        vod_play_url: episode_str_list.join("$$$"), vod_play_from: play_foramt_list.map(item => item).join("$$$"),
-    };
+
+async function listFiles(index,item, video_item_list, sub_item_list, share_token) {
+    return await listFilesMarker(index,item, video_item_list, sub_item_list, "", share_token);
 }
 
-async function listFiles(item, video_item_list, sub_item_list, share_token) {
-    return await listFilesMarker(item, video_item_list, sub_item_list, "", share_token);
-}
-
-async function listFilesMarker(item, video_item_list, sub_item_list, netxt_markers, share_token) {
+async function listFilesMarker(index,item, video_item_list, sub_item_list, netxt_markers, share_token) {
     let new_item = {}, file_list = [];
     new_item.limit = 200;
     new_item.share_id = shareId;
@@ -345,10 +339,11 @@ async function listFilesMarker(item, video_item_list, sub_item_list, netxt_marke
     new_item.parent_file_id = item.getFileId();
     new_item.order_by = "name";
     new_item.order_direction = "ASC";
+    new_item.share_index = index
     if (netxt_markers.length > 0) {
         new_item.marker = netxt_markers;
     }
-    let items = Item.objectFrom(await shareFunc("adrive/v2/file/list_by_share", new_item), shareToken);
+    let items = Item.objectFrom(await shareFunc("adrive/v2/file/list_by_share", new_item), shareToken,index);
     for (const r_item of items.getItems()) {
         if (r_item.getType() === "folder") {
             file_list.push(r_item);
@@ -385,9 +380,9 @@ async function listFilesMarker(item, video_item_list, sub_item_list, netxt_marke
             }
         }
     }
-    items.getNextMarker().length > 0 && (await listFilesMarker(item, video_item_list, sub_item_list, items.getNextMarker()));
+    items.getNextMarker().length > 0 && (await listFilesMarker(index,item, video_item_list, sub_item_list, items.getNextMarker()));
     for (const file of file_list) {
-        await listFiles(file, video_item_list, sub_item_list);
+        await listFiles(index,file, video_item_list, sub_item_list);
     }
 }
 
@@ -413,31 +408,6 @@ function getParentFileId(file_id, items) {
     return "";
 }
 
-//字幕匹配
-function pair(name, item_list, sub_item_list) {
-    for (const item of item_list) {
-        const sub_name = Utils.removeExt(item.getName()).toLowerCase();
-        if (name.indexOf(sub_name) > -1 || sub_name.indexOf(name) > -1) {
-            sub_item_list.push(item);
-        }
-    }
-}
-
-//找出所有字幕
-function findSubs(name, item_list) {
-    let sub_item_list = [];
-    pair(Utils.removeExt(name).toLowerCase(), item_list, sub_item_list);
-    if (sub_item_list.length === 0) {
-        for (const item of item_list) {
-            sub_item_list.push(item);
-        }
-    }
-    let sub_str = "";
-    for (const item of sub_item_list) {
-        sub_str += "+" + Utils.removeExt(item.getName()) + "@@@" + item.getExt() + "@@@" + item.getFileId();
-    }
-    return sub_str;
-}
 
 async function getSubs(sub_list, share_id) {
     let sub_url_list = [];
@@ -517,9 +487,7 @@ async function playerContent(file_id, share_id, share_token) {
         // let sub_list = await getSubs(file_id_list,share_id);
         await JadeLog.info("获取原画的播放地址和字幕下载链接成功", true)
         await JadeLog.info(`下载地址为:${download_url}`)
-        return JSON.stringify({
-            parse: 0, url: download_url, header: getHeader(), format: "application/octet-stream", subs: []
-        });
+        return download_url;
     } catch (e) {
         await JadeLog.error("获取原画的播放地址和字幕下载链接失败:失败原因为:" + e);
     }
@@ -540,9 +508,7 @@ async function playerContentByFlag(file_id, flag, share_id, shareToken) {
 
         await JadeLog.info("获取转码后的播放地址和字幕下载链接成功", true)
         await JadeLog.info(`下载地址为:${video_preview_url}`)
-        return JSON.stringify({
-            parse: 0, url: video_preview_url, header: getHeader(), format: "application/x-mpegURL", subs: []
-        });
+        return video_preview_url;
     } catch (e) {
         await JadeLog.error(`获取转码后的播放地址和字幕下载链接失败,失败原因为:${e}`)
     }
@@ -560,7 +526,7 @@ function getPreviewUrl(video_preview_play_info, flag) {
             return live_transcoding_task.url;
         }
     }
-    return live_transcoding_task_list[0].url;
+    return live_transcoding_task_list.slice(-1)[0].url;
 }
 
 function getSubsByPlayInfo(video_preview_play_info) {
@@ -707,5 +673,5 @@ async function setToken(token) {
 }
 
 export {
-    initSome, setToken, clearFile, setShareId, getFileByShare, getVod, playerContent, playerContentByFlag, getTempFileId
+    initSome, setToken, clearFile, setShareId, getFileByShare, playerContent, playerContentByFlag, getTempFileId
 };

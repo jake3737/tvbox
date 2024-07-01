@@ -9,7 +9,7 @@
 
 import {_, load} from "../lib/cat.js";
 import {Spider} from "./spider.js";
-import {detailContent, initAli, playContent} from "../lib/ali.js";
+import { detailContent,initCloud,playContent,getHeaders } from "../lib/cloud.js";
 import {VodDetail, VodShort} from "../lib/vod.js";
 import * as Utils from "../lib/utils.js";
 
@@ -18,11 +18,11 @@ class GitCafeSpider extends Spider {
         super();
         this.siteUrl = "https://www.alipansou.com"
     }
-    getSearchHeader(id) {
+    getHeaders(id) {
         let headers = this.getHeader()
-        headers["Referer"] = id
-        headers["Postman-Token"] = "5f1bb291-ce30-44c7-8885-6db1f3a50785"
-        headers["Host"] = "www.alipansou.com"
+        headers["Referer"] = this.siteUrl + id
+        headers["_bid"] = "6d14a5dd6c07980d9dc089a693805ad8"
+        headers["Cookie"] = "_egg=70463dec0ec843b682ce18c36ec9ce91e"
         return headers
     }
 
@@ -43,11 +43,10 @@ class GitCafeSpider extends Spider {
     }
 
     getHeader() {
-
         return {
             "User-Agent":Utils.CHROME,
-            "Connection": "keep-alive",
-            "Cookie":"mysession=MTcxNTQwNTU3N3xEdi1CQkFFQ180SUFBUkFCRUFBQUxmLUNBQUVHYzNSeWFXNW5EQXdBQ25ObFlYSmphRjlyWlhrR2MzUnlhVzVuREFzQUNlZVVoT1dzbS1TOG9BPT183zSLJi-U9NmKMODipFB6EPuVUbUbmCgYTaJrdiPwsLU="}
+            "Connection": "keep-alive"
+        }
     }
 
     async getContentHtml() {
@@ -64,7 +63,7 @@ class GitCafeSpider extends Spider {
     async init(cfg) {
         await this.spiderInit()
         await super.init(cfg);
-        await initAli(this.cfgObj["token"]);
+        await initCloud(this.cfgObj);
     }
 
     async parseClassFromDoc($) {
@@ -93,7 +92,7 @@ class GitCafeSpider extends Spider {
 
     async getAliUrl(id) {
         let url = this.siteUrl + id.replace("/s/", "/cv/")
-        let headers = this.getSearchHeader(url)
+        let headers = this.getHeaders(id)
         let content = await req(url,{postType:"get",headers:headers,redirect:2})
         await this.jadeLog.debug(`回复内容为:${JSON.stringify(content)}`)
         // let url = await this.fetch(this.siteUrl + id.replace("/s/", "/cv/"), null, headers, true)
@@ -107,9 +106,9 @@ class GitCafeSpider extends Spider {
         let ali_url = await this.getAliUrl(obj["id"])
         await this.jadeLog.debug(`阿里分享链接为:${ali_url}`)
         if (!_.isEmpty(ali_url)) {
-            let aliVodDetail = await detailContent([ali_url])
-            vodDetail.vod_play_url = aliVodDetail.vod_play_url
-            vodDetail.vod_play_from = aliVodDetail.vod_play_from
+            let playVod = await detailContent([ali_url],vodDetail.type_name)
+            vodDetail.vod_play_from = _.keys(playVod).join('$$$');
+            vodDetail.vod_play_url = _.values(playVod).join('$$$');
         }
         return vodDetail
     }
@@ -187,8 +186,8 @@ class GitCafeSpider extends Spider {
     }
 
     async setPlay(flag, id, flags) {
-        let playObjStr = await playContent(flag, id, flags);
-        this.playUrl = JSON.parse(playObjStr)["url"]
+        this.playUrl = await playContent(flag, id, flags);
+        this.result.setHeader(getHeaders(flag))
     }
 }
 
