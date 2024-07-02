@@ -886,7 +886,7 @@
             "name": "Now爆谷",
             "ua": "okhttp/3.15",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/frxz751113/IPTVzb1/main/%E7%BB%93%E6%9E%9C.txt",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fleung49/star/main/hhzt",
             "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
