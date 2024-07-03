@@ -860,8 +860,8 @@
 	"logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 	      {
-      "name":"越南电信",
-      "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/quninainaixi/quninainaixi/main/mytv.txt",
+      "name":"世界频道",
+      "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fleung49/star/main/extraott",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
      },
