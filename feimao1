@@ -846,7 +846,7 @@
     {
       "name": "四季TV",
       "type": 0,
-      "url": "https://noisy-nikoletta-jamin-9f6d6e7b.koyeb.app/4gtv.m3u",
+      "url": "https://jamin1102.serv00.net/m3u/4gtv-01.m3u",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
