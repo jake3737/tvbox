@@ -14,15 +14,47 @@
       "changeable": 1
     },
     {
-      "key": "py_Mubai",
-      "name": "慕白",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/wolfcode9/d25d221074c7b34d/main/77b87ab317c584e0/s794a41ec368b5a96.py",
-      "url": "https://m.mubai.link/",
+      "key": "T4-安博",
+      "name": "安博(T4)",
+      "type": 4,
+      "api": "https://tang.hz.cz/power/ub18?token=b6082eb1",
       "searchable": 1,
-      "changeable": 1,
+      "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/wolfcode9/d25d221074c7b34d/main/6ecdf5fca6d38571/434f7b30ffedd904"
+      "changeable": 0
+    },
+	{
+      "key": "sgys1",
+      "name": "影視備用源①",
+      "type": 1,
+      "api": "https://api.huaren.live/api.php/tvbox",
+      "playUrl": "json:https://4tvbox.ggff.net/t.php?url=",
+      "header": {
+        "User-Agent": "okhttp/3.12.13"
+      },
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "sgys2",
+      "name": "影視備用源②",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://4tvbox.ggff.net/ys.json"
+    },
+    {
+      "key": "T4-heimuer",
+      "name": "黑木耳(T4)",
+      "type": 4,
+      "api": "https://tang.hz.cz/power/hme?token=b6082eb1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
     },
     {
       "key": "荐片",
@@ -103,6 +135,81 @@
         "穿越",
         "甜宠",
         "强者"
+      ]
+    },
+	{
+      "key": "huawei",
+      "name": "華為資源站",
+      "type": 1,
+      "api": "https://cjhwba.com/api.php/provide/vod",
+      "playUrl": "json:https://4tvbox.ggff.net/noad.php?url=",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "國產劇",
+        "香港劇",
+        "韓國劇",
+        "歐美劇",
+        "臺灣劇",
+        "大陸綜藝",
+        "國產動漫",
+        "日韓動漫",
+        "動作片",
+        "喜劇片",
+        "愛情片",
+        "科幻片",
+        "恐怖片",
+        "劇情片",
+        "戰爭片",
+        "驚悚片",
+        "家庭篇",
+        "古裝片",
+        "歷史片",
+        "懸疑片",
+        "犯罪片",
+        "災難片",
+        "紀錄片",
+        "短片",
+        "動畫片",
+        "西部片",
+        "倫理片"
+      ]
+    },
+    {
+      "key": "360",
+      "name": "360資源站",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "國產劇",
+        "香港劇",
+        "韓國劇",
+        "歐美劇",
+        "臺灣劇",
+        "大陸綜藝",
+        "國產動漫",
+        "日韓動漫",
+        "動作片",
+        "喜劇片",
+        "愛情片",
+        "科幻片",
+        "恐怖片",
+        "劇情片",
+        "戰爭片",
+        "驚悚片",
+        "家庭篇",
+        "古裝片",
+        "歷史片",
+        "懸疑片",
+        "犯罪片",
+        "災難片",
+        "紀錄片",
+        "短片",
+        "動畫片",
+        "西部片",
+        "倫理片"
       ]
     },
     {
@@ -544,7 +651,6 @@
 {"key":"csp_YouShengBook","name":"📚┃有声┃小说","type":3,"playerType":"2","api":"csp_YouShengBook","searchable":0,"style":{"type":"rect","ratio":1.333}},
 {"key":"樱花动漫","name":"🌸┃樱花┃动漫","type":3,"playerType":"2","api":"csp_Ying"},
 {"key":"在线┃直播1","name":"📺┃竞技┃直播","type":3,"api":"http://dt.xn--yety82d.love/js/lib/drpy2.min.js","ext":"http://dt.xn--yety82d.love/js/JustLive.js","gridview":"0-0-H","style":{"type":"rect","ratio":1.68}},
-
 
 
 {"key": "dr_script直播[直]","name": "🥦script直播[直][DR]","type": 3,"api": "./libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "./js/直播/script直播[直].js"},
