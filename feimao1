@@ -904,9 +904,9 @@
 {"name":"💮影视大全","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},{"name":"肥猫最可爱","type":1,"url":"http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}}],
 	    "lives": [
     {
-      "name": "安博TV",
+      "name": "欧华",
       "type": 0,
-      "url": "https://fm1077.serv00.net/anbo/",
+      "url": "https://tv543.cc/tvlist01.txt",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
@@ -945,9 +945,9 @@
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
 {
-	"name": "Z88",
+	"name": "543",
 	"type": 0,
-	"url": "https://files.catbox.moe/l9cafg.txt",
+	"url": "https://tv543.cc/list.php",
         "playerType": 1,
 	"ua": "okhttp/3.15",
 	"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -977,10 +977,10 @@
 
 
         {
-            "name": "Now爆谷",
+            "name": "SMT",
             "ua": "okhttp/3.15",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fleung49/star/main/hhzt",
+            "url": "https://tv543.cc/smt.txt",
             "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
