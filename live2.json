@@ -1,0 +1,42 @@
+{
+  "lives": [
+    {
+      "name": "tv543",
+      "url": "https://tv543.cc/list.php"
+    }, 
+    {
+      "name": "IPTV研究所",
+      "type": 0,
+      "url": "https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=395626593195248",
+      "playerType": 1
+    },
+    {
+      "name" : "不电视",
+      "url" : "https://raw.githubusercontent.com/chiang1102/a/refs/heads/main/test1.txt", 
+    },
+    {
+      "name": "广东",
+      "url": "https://raw.githubusercontent.com/ngdikman/hksar/refs/heads/main/dianxin.txt",
+    },     
+    {
+      "name": "法国时尚",
+      "url": "https://raw.githubusercontent.com/MercuryZz/IPTVN/refs/heads/Files/GAT.m3u"
+    },  
+    {
+      "name": "天天开心",
+      "url": "http://rihou.cc:555/gggg.nzk"
+    }, 
+    {
+      "name": "翡翠",
+      "url": "https://raw.githubusercontent.com/wokaotianshi123/ott/refs/heads/main/mytvfree.m3u"
+    }, 
+    {
+      "name": "哈哈",
+      "url": "https://9554.kstore.space/feimao"
+    }, 
+    {
+      "name": "天天",
+      "url": "http://rihou.cc:55/lib/kx2024.txt"
+    }
+  ]
+}
