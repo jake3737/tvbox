@@ -17,10 +17,6 @@
       "playerType" : 1
     },
     {
-      "name" : "不电视",
-      "url" : "https://raw.githubusercontent.com/chiang1102/a/refs/heads/main/test1.txt", 
-    },
-    {
       "name": "广东",
       "url": "https://raw.githubusercontent.com/ngdikman/hksar/refs/heads/main/dianxin.txt",
     }, 
