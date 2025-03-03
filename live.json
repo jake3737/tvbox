@@ -21,11 +21,7 @@
     {
       "name": "法国时尚",
       "url": "https://raw.githubusercontent.com/MercuryZz/IPTVN/refs/heads/Files/GAT.m3u"
-    },  
-    {
-      "name": "天天开心",
-      "url": "http://rihou.cc:555/gggg.nzk"
-    }，  
+    },   
     {
       "name": "翡翠",
       "url": "https://raw.githubusercontent.com/wokaotianshi123/ott/refs/heads/main/mytvfree.m3u"
@@ -37,7 +33,11 @@
     {
       "name": "哈哈",
       "url": "https://9554.kstore.space/feimao"
-    }, 
+    },   
+    {
+      "name": "天天开心",
+      "url": "http://rihou.cc:555/gggg.nzk"
+    },  
     {
       "name": "天天",
       "url": "http://rihou.cc:55/lib/kx2024.txt"
