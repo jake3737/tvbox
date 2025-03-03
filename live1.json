@@ -28,7 +28,15 @@
     {
       "name": "不电",
       "url": "https://raw.githubusercontent.com/chiang1102/a/refs/heads/main/test1.txt"
-    }, 	
+    },
+    {
+      "name": "法时尚",
+      "url": "https://raw.githubusercontent.com/MercuryZz/IPTVN/refs/heads/Files/GAT.m3u"
+    },
+    {
+      "name": "翡翠",
+      "url": "https://raw.githubusercontent.com/wokaotianshi123/ott/refs/heads/main/mytvfree.m3u"
+    },  	
     {
       "name": "天天开心",
       "url": "http://rihou.cc:555/gggg.nzk"
