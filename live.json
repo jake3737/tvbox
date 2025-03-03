@@ -17,9 +17,9 @@
       "playerType" : 1
     },
     {
-      "name": "广东",
-      "url": "https://raw.githubusercontent.com/ngdikman/hksar/refs/heads/main/dianxin.txt",
-    }, 
+      "name" : "不电视",
+      "url" : "https://raw.githubusercontent.com/chiang1102/a/refs/heads/main/test1.txt", 
+    },
     {
       "name": "天天开心",
       "url": "http://rihou.cc:555/gggg.nzk"
