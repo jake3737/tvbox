@@ -17,8 +17,9 @@
       "playerType" : 1
     },
     {
-      "name": "印Smartv",
-      "url": "https://raw.githubusercontent.com/markgorrr/live/refs/heads/main/smartv.txt",
+      "name": "YanG-1989",
+      "url": "https://tv.iill.top/m3u/Gather",
+      "ua": "okhttp/4.12.0"
     },     
     {
       "name": "广东",
@@ -37,7 +38,7 @@
       "url": "https://raw.githubusercontent.com/wokaotianshi123/ott/refs/heads/main/mytvfree.m3u"
     },  	
     {
-      "name": "mao影视",
+      "name": "天天开心",
       "url": "http://rihou.cc:555/gggg.nzk"
     },  
     {
