@@ -17,10 +17,9 @@
       "playerType" : 1
     },
     {
-      "name": "YanG-1989",
-      "url": "https://tv.iill.top/m3u/Gather",
-      "ua": "okhttp/4.12.0"
-    },     
+      "name": "TW",
+      "url": "https://raw.githubusercontent.com/iamfang2019/AAAAA/refs/heads/main/TW.txt"
+    },	
     {
       "name": "广东",
       "url": "https://raw.githubusercontent.com/ngdikman/hksar/refs/heads/main/dianxin.txt"
