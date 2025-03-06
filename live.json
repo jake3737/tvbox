@@ -1,9 +1,13 @@
 {
   "lives": [
     {
-      "name": "tv543",
-      "url": "https://tv543.cc/list.php"
+      "name": "哈哈",
+      "url": "https://9554.kstore.space/a.txt"
     }, 
+	{
+      "name": "天天开心",
+      "url": "http://rihou.cc:555/gggg.nzk"
+    },  
     {
       "name": "IPTV研究所",
       "type": 0,
@@ -40,10 +44,6 @@
       "name": "翡翠",
       "url": "https://raw.githubusercontent.com/wokaotianshi123/ott/refs/heads/main/mytvfree.m3u"
     },  	
-    {
-      "name": "天天开心",
-      "url": "http://rihou.cc:555/gggg.nzk"
-    },  
     {
       "name": "UZ影视",
       "url": "https://tv.iill.top/m3u/Gather"
