@@ -9,25 +9,18 @@
 	  "logo":"https://epg.112114.xyz/logo/{name}.png"
     }, 
 	{
+      "name": "tv543",
+      "url": "https://tv543.cc/list.php"
+    }, 
+    {
+      "name": "YanG-1989",
+      "url": "https://tv.iill.top/m3u/Gather",
+      "ua": "okhttp/4.12.0"
+    }, 
+	{
       "name": "天天开心",
       "url": "http://rihou.cc:555/gggg.nzk"
     },  
-    {
-      "name": "IPTV研究所",
-      "type": 0,
-      "url": "https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=395626593195248",
-      "playerType": 1
-    },
-    {
-      "name" : "Stream-link",
-      "type" : 0,
-      "url" : "https://www.stream-link.org/playlist.m3u?token=e50bb3b0-6882-47f6-8bb8-e13afe0d0649&hmac=b88752ea4e53b483ad2739d89f1d8a8b", 
-      "playerType" : 1
-    },
-    {
-      "name": "TW",
-      "url": "https://raw.githubusercontent.com/iamfang2019/AAAAA/refs/heads/main/TW.txt"
-    },	
     {
       "name": "广东",
       "url": "https://raw.githubusercontent.com/ngdikman/hksar/refs/heads/main/dianxin.txt"
@@ -44,13 +37,19 @@
       "name": "法时尚",
       "url": "https://raw.githubusercontent.com/MercuryZz/IPTVN/refs/heads/Files/GAT.m3u"
     },
+	{
+      "name" : "Stream-link",
+      "type" : 0,
+      "url" : "https://www.stream-link.org/playlist.m3u?token=e50bb3b0-6882-47f6-8bb8-e13afe0d0649&hmac=b88752ea4e53b483ad2739d89f1d8a8b", 
+      "playerType" : 1
+    },
+    {
+      "name": "TW",
+      "url": "https://raw.githubusercontent.com/iamfang2019/AAAAA/refs/heads/main/TW.txt"
+    },	
     {
       "name": "翡翠",
       "url": "https://raw.githubusercontent.com/wokaotianshi123/ott/refs/heads/main/mytvfree.m3u"
-    },  	
-    {
-      "name": "UZ影视",
-      "url": "https://tv.iill.top/m3u/Gather"
     }
   ]
 }
