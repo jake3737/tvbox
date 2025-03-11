@@ -16,6 +16,14 @@
       "name": "OK直播",
       "url": "http://ok321.top/ok"
     },
+	{
+      "name": "央视直播",
+      "url": "https://raw.githubusercontent.com/MercuryZz/IPTVN/refs/heads/Files/CCTV.m3u"
+    },
+	{
+      "name": "广电直播",
+      "url": "https://raw.githubusercontent.com/ngdikman/hksar/refs/heads/main/guangdian.m3u"
+    },
     {
       "name": "翡翠",
       "url": "https://raw.githubusercontent.com/wokaotianshi123/ott/refs/heads/main/mytvfree.m3u"
