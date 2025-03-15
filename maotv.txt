@@ -15,7 +15,7 @@ abc频道,#genre#
 湖南卫视,http://111.14.181.15:9901/tsfile/live/0128_1.m3u8
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226430/index.m3u8
 
-
+Sun Music,https://haoyunlai.serv00.net/Smartv-1.php?id=Sunmusic
 SunMusic,https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=sunmusic
 SunMusic,https://lsj.37o.xyz/histar.php?id=sunmusic
 SunMusic,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sunmusic
