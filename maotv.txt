@@ -1,4 +1,10 @@
 abc频道,#genre#
+亞洲旅遊台,https://haoyunlai.serv00.net/Smartv-1.php?id=asiatravel_twn
+亞洲旅遊台,https://video.mytvsuper.xyz/live/c3fe1c123058a305cd081aef788f56be7605bcad021f4f433b9cb64f9aa1e5bf.m3u8?token=422640347280352
+TLC旅遊生活,https://haoyunlai.serv00.net/Smartv-1.php?id=tlc_twn
+EYE旅遊,https://haoyunlai.serv00.net/Smartv-1.php?id=eyetvtravel_twn
+ELTA 生活旅遊[4gtv],https://video.mytvsuper.xyz/live/19399a95cb4e23b6302c3c9cb592c3b1e4d29da4dff86f1107f76dffcdde8831.m3u8?token=422640347280352
+民視旅遊台,https://video.mytvsuper.xyz/live/365c37b273eb38f95344953c7b8e243a261da5914cfe5cc38f3ccc2da98e1334.php?token=422640347280352
 翡翠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 寰宇新聞台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-14/AKTV.m3u8
 寰宇新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
