@@ -1,32 +1,21 @@
 abc频道,#genre#
-
-深圳都市,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
-深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
-深圳都市,https://tv.cry33.com/shenzhen.php?id=szds
-深圳都市,http://113.64.145.231:8081/hls/68/index.m3u8
-深圳都市,http://113.109.250.69:9999/rtp/239.77.1.176:51
-
-
-湖南都市,http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
-湖南都市,http://api2.52tb.xyz/info?id=567&token=20230218htjgzi
-湖南卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=hunws
-湖南卫视,http://live.nctv.top/886/cqyx.php?token=&id=hunws
-湖南卫视,http://183.92.4.163:4000/udp/228.0.0.61:6108
-湖南卫视,http://111.14.181.15:9901/tsfile/live/0128_1.m3u8
-湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226430/index.m3u8
+寰宇新聞台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-14/AKTV.m3u8
+寰宇新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
+東森新聞,http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+湖南卫视,http://113.64.197.118:6633/udp/239.77.1.5:5146
+湖南卫视,http://113.64.197.118:6633/udp/239.77.0.88:5146
+深圳都市频道,http://183.51.190.223:6633/udp/239.77.1.176:5146
+深圳都市频道,http://183.51.190.223:6633/udp/239.77.1.124:5146
+CCTV-2,http://113.64.197.118:6633/udp/239.77.1.158:5146
+CCTV-13,http://113.64.197.118:6633/udp/239.77.0.188:5146
+CCTV-13,http://113.64.197.118:6633/udp/239.253.43.196:5146
+世界地理,http://183.51.190.223:6633/udp/239.253.43.24:5146
+世界地理,http://183.51.190.223:6633/udp/239.253.43.7:5146
+央视文化精品,http://183.51.190.223:6633/udp/239.253.43.27:5146
+央视文化精品,http://183.51.190.223:6633/udp/239.253.43.13:5146
 
 Sun Music,https://haoyunlai.serv00.net/Smartv-1.php?id=Sunmusic
-SunMusic,https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=sunmusic
-SunMusic,https://lsj.37o.xyz/histar.php?id=sunmusic
-SunMusic,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sunmusic
-Sun Music,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=Sunmusic
-Sun Music,https://smart.ykq001.cloud/Smart.php?id=Sunmusic
-
 FASHION,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-FASHION TV,http://42.117.151.255:2052/udp/225.1.4.20:30120
-FASHION TV,http://42.117.151.255:2052/udp/225.1.2.227:30120
-FASHION,https://f21.unityanuc.com/live/rx3/2287/a999781167a6cc9754720051c0f4ffc9/index.m3u8
-FASHION,https://z88.ubtvfans.com/live/rx3/2287/a999781167a6cc9754720051c0f4ffc9/index.m3u8
 FASHION TV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 
